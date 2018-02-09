@@ -20,9 +20,9 @@ rows = table.findAll('tr')
 for row in rows:
     fields = row.findAll('td')
     if fields:
-        symbol = fields[0].string
-        name = fields[1].string
-        sector = fields[3].string
+        symbol = fields[0].text
+        name = fields[1].text
+        sector = fields[3].text
         records.append([symbol, name, sector])
 
 header = ['Symbol', 'Name', 'Sector']

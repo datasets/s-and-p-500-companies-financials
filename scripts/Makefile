@@ -12,8 +12,8 @@ List_of_S%26P_500_companies.html:
 ../data/constituents-financials.csv: ../data ../data/constituents.csv constituents-financials.py
 	python constituents-financials.py
 
-valid.txt: ../data/constituents.csv ../data/constituents-financials.csv ../datapackage.json test_data.py
-	python test_data.py
+valid.txt: ../data/constituents.csv ../data/constituents-financials.csv ../datapackage.json validate.py
+	python validate.py
 	echo "Datapackage is valid" > valid.txt
 
 pushed.txt: valid.txt
