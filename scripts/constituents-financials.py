@@ -39,7 +39,7 @@ reader = csv.reader(open('../data/constituents.csv'))
 # gather field titles and IEX field names
 iex_fieldnames = []
 field_titles = []
-for iex_type in IEX_TYPES_FIELDNAMES_TITLES.values():
+for iex_type in sorted(IEX_TYPES_FIELDNAMES_TITLES.values()):
     iex_fieldnames += [ field[0] for field in iex_type ]
     field_titles += [ field[1] for field in iex_type ]
 
