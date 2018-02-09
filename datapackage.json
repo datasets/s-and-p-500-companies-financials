@@ -56,12 +56,12 @@
             "type": "number"
           },
           {
-            "name": "Dividend Yield",
+            "name": "Price/Earnings",
             "description": "",
             "type": "number"
           },
           {
-            "name": "Price/Earnings",
+            "name": "Dividend Yield",
             "description": "",
             "type": "number"
           },
@@ -71,17 +71,12 @@
             "type": "number"
           },
           {
-            "name": "Book Value",
+            "name": "52 Week Low",
             "description": "",
             "type": "number"
           },
           {
-            "name": "52 week low",
-            "description": "",
-            "type": "number"
-          },
-          {
-            "name": "52 week high",
+            "name": "52 Week High",
             "description": "",
             "type": "number"
           },
@@ -108,7 +103,6 @@
           {
             "name": "SEC Filings",
             "description": "",
-            "format": "url",
             "type": "string"
           }
         ]
