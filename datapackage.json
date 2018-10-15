@@ -1,118 +1,122 @@
 {
-  "name": "s-and-p-500-companies-financials",
-  "title": "S&P 500 Companies with Financial Information",
-  "licenses": [
-    {
-      "name": "ODC-PDDL-1.0",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License v1.0"
-    }
-  ],
+  "bytes": 275973,
+  "count_of_rows": 1010,
+  "hash": "caaa8139be25dd4ffdf7eee915b421cc",
+  "homepage": "http://www.sec.gov",
+  "licenses": "PDDL-1.0",
+  "name": "s-p-500-financial-data",
+  "profile": "data-package",
   "resources": [
     {
-      "name": "constituents",
+      "name": "s-p-constituents",
       "path": "data/constituents.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "format": "default",
             "name": "Symbol",
-            "description": "",
             "type": "string"
           },
           {
+            "format": "default",
             "name": "Name",
-            "description": "",
             "type": "string"
           },
           {
+            "format": "default",
             "name": "Sector",
-            "description": "",
             "type": "string"
           }
+        ],
+        "missingValues": [
+          ""
         ]
       }
     },
     {
-      "name": "constituents-financials",
-      "path": "data/constituents-financials.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
+      "name": "constiuents-financials",
+      "path": "data/constiuents-financials.csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
+            "format": "default",
             "name": "Symbol",
-            "description": "",
             "type": "string"
           },
           {
+            "format": "default",
             "name": "Name",
-            "description": "",
             "type": "string"
           },
           {
+            "format": "default",
             "name": "Sector",
-            "description": "",
             "type": "string"
           },
           {
+            "format": "default",
             "name": "Price",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "Price/Earnings",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "Dividend Yield",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "Earnings/Share",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "52 Week Low",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "52 Week High",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "Market Cap",
-            "description": "",
-            "type": "number"
+            "type": "string"
           },
           {
+            "format": "default",
             "name": "EBITDA",
-            "description": "",
-            "type": "number"
+            "type": "integer"
           },
           {
+            "format": "default",
             "name": "Price/Sales",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "Price/Book",
-            "description": "",
             "type": "number"
           },
           {
+            "format": "default",
             "name": "SEC Filings",
-            "description": "",
             "type": "string"
           }
+        ],
+        "missingValues": [
+          ""
         ]
       }
     }
-  ]
+  ],
+  "title": "S&P 500 Financial data",
+  "version": "0.2.0"
 }

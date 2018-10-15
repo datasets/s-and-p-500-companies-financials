@@ -1,14 +1,13 @@
 Symbol,Name,Sector
 MMM,3M Company,Industrials
-AOS,A.O. Smith Corp,Industrials
 ABT,Abbott Laboratories,Health Care
 ABBV,AbbVie Inc.,Health Care
 ACN,Accenture plc,Information Technology
 ATVI,Activision Blizzard,Information Technology
 AYI,Acuity Brands Inc,Industrials
 ADBE,Adobe Systems Inc,Information Technology
-AAP,Advance Auto Parts,Consumer Discretionary
 AMD,Advanced Micro Devices Inc,Information Technology
+AAP,Advance Auto Parts,Consumer Discretionary
 AES,AES Corp,Utilities
 AET,Aetna Inc,Health Care
 AMG,Affiliated Managers Group Inc,Financials
@@ -48,6 +47,7 @@ ANDV,Andeavor,Energy
 ANSS,ANSYS,Information Technology
 ANTM,Anthem Inc.,Health Care
 AON,Aon plc,Financials
+AOS,A.O. Smith Corp,Industrials
 APA,Apache Corporation,Energy
 AIV,Apartment Investment & Management,Real Estate
 AAPL,Apple Inc.,Information Technology
@@ -66,6 +66,7 @@ AVY,Avery Dennison Corp,Materials
 BHGE,"Baker Hughes, a GE Company",Energy
 BLL,Ball Corp,Materials
 BAC,Bank of America Corp,Financials
+BK,The Bank of New York Mellon Corp.,Financials
 BAX,Baxter International Inc.,Health Care
 BBT,BB&T Corporation,Financials
 BDX,Becton Dickinson,Health Care
@@ -89,10 +90,10 @@ CDNS,Cadence Design Systems,Information Technology
 CPB,Campbell Soup,Consumer Staples
 COF,Capital One Financial,Financials
 CAH,Cardinal Health Inc.,Health Care
+CBOE,CBOE Holdings,Financials
 KMX,Carmax Inc,Consumer Discretionary
 CCL,Carnival Corp.,Consumer Discretionary
 CAT,Caterpillar Inc.,Industrials
-CBOE,CBOE Holdings,Financials
 CBG,CBRE Group,Real Estate
 CBS,CBS Corp.,Consumer Discretionary
 CELG,Celgene Corp.,Health Care
@@ -116,6 +117,7 @@ CSCO,Cisco Systems,Information Technology
 C,Citigroup Inc.,Financials
 CFG,Citizens Financial Group,Financials
 CTXS,Citrix Systems,Information Technology
+CLX,The Clorox Company,Consumer Staples
 CME,CME Group Inc.,Financials
 CMS,CMS Energy,Utilities
 KO,Coca-Cola Company (The),Consumer Staples
@@ -128,6 +130,7 @@ CXO,Concho Resources,Energy
 COP,ConocoPhillips,Energy
 ED,Consolidated Edison,Utilities
 STZ,Constellation Brands,Consumer Staples
+COO,The Cooper Companies,Health Care
 GLW,Corning Inc.,Information Technology
 COST,Costco Wholesale Corp.,Consumer Staples
 COTY,"Coty, Inc",Consumer Staples
@@ -156,8 +159,8 @@ DOV,Dover Corp.,Industrials
 DWDP,DowDuPont,Materials
 DPS,Dr Pepper Snapple Group,Consumer Staples
 DTE,DTE Energy Co.,Utilities
-DUK,Duke Energy,Utilities
 DRE,Duke Realty Corp,Real Estate
+DUK,Duke Energy,Utilities
 DXC,DXC Technology,Information Technology
 ETFC,E*Trade,Financials
 EMN,Eastman Chemical,Materials
@@ -177,8 +180,8 @@ EQIX,Equinix,Real Estate
 EQR,Equity Residential,Real Estate
 ESS,"Essex Property Trust, Inc.",Real Estate
 EL,Estee Lauder Cos.,Consumer Staples
-RE,Everest Re Group Ltd.,Financials
 ES,Eversource Energy,Utilities
+RE,Everest Re Group Ltd.,Financials
 EXC,Exelon Corp.,Utilities
 EXPE,Expedia Inc.,Consumer Discretionary
 EXPD,Expeditors International,Industrials
@@ -228,6 +231,7 @@ HCA,HCA Holdings,Health Care
 HCP,HCP Inc.,Real Estate
 HP,Helmerich & Payne,Energy
 HSIC,Henry Schein,Health Care
+HSY,The Hershey Company,Consumer Staples
 HES,Hess Corporation,Energy
 HPE,Hewlett Packard Enterprise,Information Technology
 HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary
@@ -244,11 +248,11 @@ IDXX,IDEXX Laboratories,Health Care
 INFO,IHS Markit Ltd.,Industrials
 ITW,Illinois Tool Works,Industrials
 ILMN,Illumina Inc,Health Care
-INCY,Incyte,Health Care
 IR,Ingersoll-Rand PLC,Industrials
 INTC,Intel Corp.,Information Technology
 ICE,Intercontinental Exchange,Financials
 IBM,International Business Machines,Information Technology
+INCY,Incyte,Health Care
 IP,International Paper,Materials
 IPG,Interpublic Group,Consumer Discretionary
 IFF,Intl Flavors & Fragrances,Materials
@@ -257,8 +261,8 @@ ISRG,Intuitive Surgical Inc.,Health Care
 IVZ,Invesco Ltd.,Financials
 IQV,IQVIA Holdings Inc.,Health Care
 IRM,Iron Mountain Incorporated,Real Estate
-JBHT,J. B. Hunt Transport Services,Industrials
 JEC,Jacobs Engineering Group,Industrials
+JBHT,J. B. Hunt Transport Services,Industrials
 SJM,JM Smucker,Consumer Staples
 JNJ,Johnson & Johnson,Health Care
 JCI,Johnson Controls International,Industrials
@@ -319,6 +323,7 @@ MON,Monsanto Co.,Materials
 MNST,Monster Beverage,Consumer Staples
 MCO,Moody's Corp,Financials
 MS,Morgan Stanley,Financials
+MOS,The Mosaic Company,Materials
 MSI,Motorola Solutions Inc.,Information Technology
 MYL,Mylan N.V.,Health Care
 NDAQ,"Nasdaq, Inc.",Financials
@@ -382,8 +387,8 @@ PSA,Public Storage,Real Estate
 PHM,Pulte Homes Inc.,Consumer Discretionary
 PVH,PVH Corp.,Consumer Discretionary
 QRVO,Qorvo,Information Technology
-QCOM,QUALCOMM Inc.,Information Technology
 PWR,Quanta Services Inc.,Industrials
+QCOM,QUALCOMM Inc.,Information Technology
 DGX,Quest Diagnostics,Health Care
 RRC,Range Resources Corp.,Energy
 RJF,Raymond James Financial Inc.,Financials
@@ -401,7 +406,6 @@ COL,Rockwell Collins,Industrials
 ROP,Roper Technologies,Industrials
 ROST,Ross Stores,Consumer Discretionary
 RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary
-SPGI,"S&P Global, Inc.",Financials
 CRM,Salesforce.com,Information Technology
 SBAC,SBA Communications,Real Estate
 SCG,SCANA Corp,Utilities
@@ -418,6 +422,7 @@ SLG,SL Green Realty,Real Estate
 SNA,Snap-On Inc.,Consumer Discretionary
 SO,Southern Co.,Utilities
 LUV,Southwest Airlines,Industrials
+SPGI,"S&P Global, Inc.",Financials
 SWK,Stanley Black & Decker,Consumer Discretionary
 SBUX,Starbucks Corp.,Consumer Discretionary
 STT,State Street Corp.,Financials
@@ -435,13 +440,6 @@ TEL,TE Connectivity Ltd.,Information Technology
 FTI,TechnipFMC,Energy
 TXN,Texas Instruments,Information Technology
 TXT,Textron Inc.,Industrials
-BK,The Bank of New York Mellon Corp.,Financials
-CLX,The Clorox Company,Consumer Staples
-COO,The Cooper Companies,Health Care
-HSY,The Hershey Company,Consumer Staples
-MOS,The Mosaic Company,Materials
-TRV,The Travelers Companies Inc.,Financials
-DIS,The Walt Disney Company,Consumer Discretionary
 TMO,Thermo Fisher Scientific,Health Care
 TIF,Tiffany & Co.,Consumer Discretionary
 TWX,Time Warner Inc.,Consumer Discretionary
@@ -450,13 +448,14 @@ TMK,Torchmark Corp.,Financials
 TSS,Total System Services,Information Technology
 TSCO,Tractor Supply Company,Consumer Discretionary
 TDG,TransDigm Group,Industrials
+TRV,The Travelers Companies Inc.,Financials
 TRIP,TripAdvisor,Consumer Discretionary
 FOXA,Twenty-First Century Fox Class A,Consumer Discretionary
 FOX,Twenty-First Century Fox Class B,Consumer Discretionary
 TSN,Tyson Foods,Consumer Staples
-USB,U.S. Bancorp,Financials
 UDR,UDR Inc,Real Estate
 ULTA,Ulta Salon Cosmetics & Fragrance Inc,Consumer Discretionary
+USB,U.S. Bancorp,Financials
 UAA,Under Armour Class A,Consumer Discretionary
 UA,Under Armour Class C,Consumer Discretionary
 UNP,Union Pacific,Industrials
@@ -481,6 +480,7 @@ VNO,Vornado Realty Trust,Real Estate
 VMC,Vulcan Materials,Materials
 WMT,Wal-Mart Stores,Consumer Staples
 WBA,Walgreens Boots Alliance,Consumer Staples
+DIS,The Walt Disney Company,Consumer Discretionary
 WM,Waste Management Inc.,Industrials
 WAT,Waters Corporation,Health Care
 WEC,Wec Energy Group Inc,Utilities
