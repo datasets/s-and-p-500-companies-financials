@@ -10,10 +10,9 @@
 from dataflows import Flow, PackageWrapper, ResourceWrapper, validate
 from dataflows import add_metadata, dump_to_path, load, set_type, printer
 from collections import OrderedDict
-from os import mkdir
-from os.path import exists
 from bs4 import BeautifulSoup
 import urllib.request
+import requests
 import json
 import csv
 
@@ -47,17 +46,12 @@ def rename(package: PackageWrapper):
     package.pkg.descriptor['resources'][1]['path'] = 'data/constiuents-financials.csv'
     yield package.pkg
     res_iter = iter(package)
-    first: ResourceWrapper = next(res_iter)
-    second: ResourceWrapper = next(res_iter)
-    yield first.it
-    yield second.it
+    for res in res_iter:
+        yield res.it
     yield from package
 
 
 def extract_constituents(html):
-    datadir = 'data'
-    if not exists(datadir):
-        mkdir(datadir)
     soup = BeautifulSoup(html, 'html.parser')
     table = soup.find("table", {"class": "wikitable sortable"})
     # Fail now if we haven't found the right table
@@ -112,9 +106,7 @@ def extract_financial_data():
     # store response data in outrows
     for index in range(0, len(symbols), IEX_NUMBER_OF_SYMBOLS_PER_REQUEST):
         query = url + ','.join(symbols[index:index + IEX_NUMBER_OF_SYMBOLS_PER_REQUEST])
-        resp = urllib.request.urlopen(query)
-        # use ordered dict to keep results sorted in original order
-        results = (json.loads(resp.readline().decode('utf-8'), object_pairs_hook=OrderedDict))
+        results = requests.get(query).json()
         # loop over chunk results and store respective fields into outrows
         for count, stock in enumerate(results):
             outrows_index = index + count + 1
@@ -142,14 +134,20 @@ def extract_financial_data():
             }
 
 
-with urllib.request.urlopen("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies") as response:
-    html = response.read()
+html = urllib.request.urlopen("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies").read()
 financial_data_flow = Flow(
     add_metadata(
         name="s-p-500-financial-data",
         title="S&P 500 Financial data",
         homepage='http://www.sec.gov',
-        licenses="PDDL-1.0",
+        licenses=[
+            {
+                "id": "odc-pddl",
+                "name": "public_domain_dedication_and_license",
+                "version": "1.0",
+                "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+            }
+        ],
         version="0.2.0"
     ),
     extract_constituents(html),

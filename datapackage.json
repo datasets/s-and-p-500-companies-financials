@@ -1,9 +1,16 @@
 {
-  "bytes": 275973,
+  "bytes": 275001,
   "count_of_rows": 1010,
-  "hash": "caaa8139be25dd4ffdf7eee915b421cc",
+  "hash": "75a56f231b1f4d84d9b306a59334ef6e",
   "homepage": "http://www.sec.gov",
-  "licenses": "PDDL-1.0",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "name": "public_domain_dedication_and_license",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/",
+      "version": "1.0"
+    }
+  ],
   "name": "s-p-500-financial-data",
   "profile": "data-package",
   "resources": [
