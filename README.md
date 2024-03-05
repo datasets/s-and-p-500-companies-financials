@@ -9,8 +9,8 @@ capitalization, earnings, price/earnings ratio, price to book etc.
 Information on S&P 500 index used to be available on the [official webpage on the Standard and Poor's website][sp-home]
 but until they publish it back, Wikipedia is the best up-to-date and open data source.
 
-* Index listing - see <data/constituents.csv> extracted from Wikipedia's [SP500 list of companies][sp-list]
-* Constituent financials - see <data/constituents-financials.csv> (source via Yahoo Finance)
+* Index listing - see "data/constituents.csv" extracted from Wikipedia's [SP500 list of companies][sp-list]
+* Constituent financials - see "data/constituents-financials.csv" (source via Yahoo Finance)
 
 Detailed information on the S&P 500 (primarily in XLS format) used to be obtained
 from its [official webpage on the Standard and Poor's website][sp-home] - it was
