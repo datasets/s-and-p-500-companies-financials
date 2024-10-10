@@ -8,6 +8,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    if: github.ref == 'refs/heads/main'
+    
     steps:
     - uses: actions/checkout@main
     - name: Build the data and create local changes
