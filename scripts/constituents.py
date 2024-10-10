@@ -1,17 +1,21 @@
-from bs4 import BeautifulSoup
 import csv
+
 from os import mkdir
+from bs4 import BeautifulSoup
 from os.path import exists, join
+
 datadir = join('..', 'data')
+
 if not exists(datadir):
     mkdir(datadir)
 source_page = open('List_of_S%26P_500_companies.html').read()
 soup = BeautifulSoup(source_page, 'html.parser')
-table = soup.find("table", { "class" : "wikitable sortable" })
+table = soup.find("table", { "id" : "constituents" })
 
 # Fail now if we haven't found the right table
-header = table.findAll('th')
-if header[0].string != "Ticker symbol" or header[1].string != "Security":
+header = [value.text.strip('\n') for value  in table.findAll('th')]
+
+if header[0] != "Symbol" or header[1] != "Security":
     raise Exception("Can't parse wikipedia's table!")
 
 # Retreive the values in the table
@@ -23,11 +27,12 @@ for row in rows:
         symbol = fields[0].text
         name = fields[1].text
         sector = fields[3].text
-        records.append([symbol, name, sector])
+        records.append([symbol.strip('\n'), name, sector])
 
 header = ['Symbol', 'Name', 'Sector']
-writer = csv.writer(open('../data/constituents.csv', 'w'), lineterminator='\n')
-writer.writerow(header)
-# Sorting ensure easy tracking of modifications
 records.sort(key=lambda s: s[1].lower())
-writer.writerows(records)    
+
+with open('../data/constituents.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(header)
+    writer.writerows(records) 

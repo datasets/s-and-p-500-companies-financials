@@ -1,2 +1,7 @@
 .*.swp
 cache/*
+venv
+*.pyc
+__pycache__
+.DS_Store
+yfinance.cache
