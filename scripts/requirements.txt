@@ -1,6 +1,7 @@
-xlrd==0.9.3
-unicodecsv
-jinja2
-beautifulsoup4
-datapackage
-goodtables
+yfinance==0.2.44
+requests==2.32.3
+requests-cache==1.2.1
+pyrate-limiter==2.10.0
+goodtables==2.5.4
+requests-ratelimiter==0.7.0
+beatufiulsoup4==4.12.3
