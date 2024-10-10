@@ -23,6 +23,7 @@ jobs:
     - name: Run Make file
       run: |
           source venv/bin/activate  
+          cd scripts
           make    
 
     - name: Commit files
