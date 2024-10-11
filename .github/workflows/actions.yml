@@ -3,24 +3,32 @@ on:
     - cron:  '0 1 * * *'
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    if: github.ref == 'refs/heads/main'
+    
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
     - name: Build the data and create local changes
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
         architecture: x64
+        
     - name: Install requirements
       run: |
         pip install -r scripts/requirements.txt
-    - name: Process Data
+
+    - name: Run Make file
       run: |
-        python scripts/constituents.py
+          source venv/bin/activate  
+          cd scripts
+          make    
+
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
