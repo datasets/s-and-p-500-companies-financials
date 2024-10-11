@@ -1,9 +1,9 @@
 These **Linux** scripts scrape data from Wikipedia page about S&P500, computes a datapackage augmented with yahoo webservices 
 then it publishes back on the very same git repository.
 
-They run with [travis-ci](https://travis-ci.org/datasets/s-and-p-500-companies) every day or at each commit to update the data.
+Data for `data/constituents-financials.csv` is parsed using yfinance library with the appropriate rate limiters.
 
-They have been tested under Debian Jessy.
+They run with [github-actions](https://github.com/datasets/s-and-p-500-companies-financials/actions) every day or at each commit to update the data.
 
 
 # Run the scripts
