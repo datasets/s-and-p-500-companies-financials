@@ -1,4 +1,5 @@
 import csv
+import time
 import random
 import requests_cache
 import yfinance as yf
@@ -48,6 +49,9 @@ def create_full_list(list_of_symbols, name, sector):
         
         # Append the stock's data to the list
         stock_data.append(data)
+
+        # Delay
+        time.sleep(1)
 
     with open('../data/constituents-financials.csv', 'w', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=stock_data[0].keys())
