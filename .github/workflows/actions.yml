@@ -1,4 +1,4 @@
-name: Automated Workflow for Glacier dataset
+name: Automated Workflow for s-and-p-500 dataset
 
 on:
   # Schedule to run on the 1st day of each month
