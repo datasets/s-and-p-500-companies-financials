@@ -1,11 +1,11 @@
 Symbol,Name,Sector,Price,Price/Earnings,Dividend Yield,Earnings/Share,52 Week Low,52 Week High,Market Cap,EBITDA,Price/Sales,Price/Book,SEC Filings
-MMM,3M,Industrial Conglomerates,134.75,52.431908,0.0208,2.57,71.36288,140.72,74025451520,7350000128,2.2697446,18.904322,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
-AOS,A. O. Smith,Building Products,80.87,20.896643,0.0168,3.87,65.08,92.45,11794485248,828899968,3.0021343,6.169986,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AOS
-ABT,Abbott Laboratories,Health Care Equipment,116.12,36.630917,0.0189,3.17,90.87,121.64,202037198848,10570999808,4.9610114,5.138508,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT
-ABBV,AbbVie,Biotechnology,194.19,64.94649,0.0319,2.99,135.85,199.95,343005560832,26121000960,6.236465,50.596664,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV
-ACN,Accenture,IT Consulting & Other Services,360.74,31.533216,0.0164,11.44,278.69,387.51,225823227904,11065912320,3.4797463,7.973564,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
-ADBE,Adobe Inc.,Application Software,495.42,42.02036,,11.79,433.97,638.25,218083885056,8134000128,10.411223,15.157412,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
-AMD,Advanced Micro Devices,Semiconductors,167.89,199.86905,,0.84,93.12,227.3,271726608384,4046000128,11.674111,4.804682,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD
+MMM,3M,Industrial Conglomerates,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMM
+AOS,A. O. Smith,Building Products,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AOS
+ABT,Abbott Laboratories,Health Care Equipment,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABT
+ABBV,AbbVie,Biotechnology,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ABBV
+ACN,Accenture,IT Consulting & Other Services,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ACN
+ADBE,Adobe Inc.,Application Software,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADBE
+AMD,Advanced Micro Devices,Semiconductors,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMD
 AES,AES Corporation,Independent Power Producers & Energy Traders,17.32,16.49524,0.0395,1.05,13.17,22.21,12313203712,3503000064,0.9906834,3.9834406,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AES
 AFL,Aflac,Life & Health Insurance,113.26,11.934669,0.0177,9.49,75.08,115.5,63428542464,6498500096,3.285772,2.441001,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AFL
 A,Agilent Technologies,Life Sciences Tools & Services,143.82,29.9625,0.0066000004,4.8,96.8,155.35,41323515904,1564000000,6.3603997,7.005358,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=A
@@ -63,7 +63,7 @@ BRK.B,Berkshire Hathaway,Multi-Sector Holdings,,,,,,,,,,,http://www.sec.gov/cgi-
 BBY,Best Buy,Computer & Electronics Retail,97.44,16.829016,0.038599998,5.79,62.3,103.71,20922804224,2673999872,0.49187306,6.742786,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BBY
 TECH,Bio-Techne,Life Sciences Tools & Services,73.36,69.86667,0.0044,1.05,51.79,85.57,11638270976,310371008,10.041129,5.610278,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TECH
 BIIB,Biogen,Biotechnology,188.38,23.75536,,7.93,181.31,269.43,27439808512,2728999936,2.8370357,1.7274011,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIIB
-BLK,BlackRock,Asset Management & Custody Banks,990.26,24.572208,0.020599999,40.3,596.18,996.29,146685231104,7241999872,7.8500075,3.6593487,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
+BLK,BlackRock,Asset Management & Custody Banks,990.26,24.572208,0.020599999,40.3,596.18,996.29,146685231104,7241999872,7.8500075,3.737352,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
 BX,Blackstone Inc.,Asset Management & Custody Banks,153.04,58.412212,0.0222,2.62,88.59,161.25,186923057152,,18.963438,16.18101,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BX
 BK,BNY Mellon,Asset Management & Custody Banks,74.15,16.55134,0.0254,4.48,39.66,76.15,53912834048,,3.0286405,1.4319925,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BK
 BA,Boeing,Aerospace & Defense,151.02,,,-5.63,146.26,267.54,93061996544,1322000000,1.2651684,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA
@@ -488,7 +488,7 @@ WBD,Warner Bros. Discovery,Broadcasting,7.52,,,-4.81,6.64,12.7,18438363136,74099
 WM,Waste Management,Environmental & Facilities Services,211.81,33.674088,0.014199999,6.29,153.95,225.0,85002534912,6236000256,4.052371,11.393147,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WM
 WAT,Waters Corporation,Life Sciences Tools & Services,357.97,35.725548,,10.02,231.9,367.21,21249779712,995238016,7.387286,15.047711,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAT
 WEC,WEC Energy Group,Electric Utilities,95.45,22.04388,0.035,4.33,75.13,97.08,30169741312,3566500096,3.4970896,2.496926,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
-WFC,Wells Fargo,Diversified Banks,60.99,12.679834,0.026199998,4.81,38.58,62.55,207595945984,,2.6657584,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
+WFC,Wells Fargo,Diversified Banks,60.99,12.679834,0.026199998,4.81,38.58,62.55,207595945984,,2.6657584,1.2391808,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
 WELL,Welltower,Health Care REITs,125.18,115.9074,0.0214,1.08,80.8,131.31,77423329280,2781885952,10.810449,2.6272378,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WELL
 WST,West Pharmaceutical Services,Health Care Supplies,294.91,42.00997,0.0027,7.02,265.0,413.7,21393244160,756800000,7.436214,8.308963,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WST
 WDC,Western Digital,"Technology Hardware, Storage & Peripherals",64.88,,,-2.61,35.62,81.55,22427326464,808000000,1.7247809,2.0571356,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
