@@ -1,4 +1,4 @@
-<a href="https://datahub.io/core/s-and-p-500-companies-financials"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/core/s-and-p-500-companies-financials"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 List of companies in the S&P 500 (Standard and Poor's 500). The S&P 500 is a
 free-float, capitalization-weighted index of the top 500 publicly listed stocks
