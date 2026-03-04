@@ -9,60 +9,72 @@ from requests_cache import CacheMixin, SQLiteCache
 from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
 from pyrate_limiter import Duration, RequestRate, Limiter
 
+
 class CachedLimiterSession(CacheMixin, LimiterMixin, Session):
     pass
 
+
 session = CachedLimiterSession(
-    limiter=Limiter(RequestRate(2, Duration.SECOND*5)),  # max 2 requests per 5 seconds
+    limiter=Limiter(
+        RequestRate(2, Duration.SECOND * 5)
+    ),  # max 2 requests per 5 seconds
     bucket_class=MemoryQueueBucket,
     backend=SQLiteCache("yfinance.cache"),
 )
 
 EDGAR_BASE_URL = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK="
 
+
 def create_full_list(list_of_symbols, name, sector):
     print("Retrieving stock data from Yahoo Finance...")
     # Initialize an empty list to store stock data
     stock_data = []
-    
+
     # Loop over each stock symbol
-    for symbol in list_of_symbols:
+    for idx, symbol in enumerate(list_of_symbols):
         stock = yf.Ticker(symbol, session=session)
-        
-        # Get the necessary data
+        info = {}
+        try:
+            info = stock.info or {}
+        except Exception as exc:
+            print(f"Warning: failed to fetch data for {symbol}: {exc}")
+
         data = {
             "Symbol": symbol,
-            "Name": name[list_of_symbols.index(symbol)],
-            "Sector": sector[list_of_symbols.index(symbol)],
-            "Price": stock.info.get('currentPrice'),
-            "Price/Earnings": stock.info.get('trailingPE'),
-            "Dividend Yield": stock.info.get('dividendYield'),
-            "Earnings/Share": stock.info.get('trailingEps'),
-            "52 Week Low": stock.info.get('fiftyTwoWeekLow'),
-            "52 Week High": stock.info.get('fiftyTwoWeekHigh'),
-            "Market Cap": stock.info.get('marketCap'),
-            "EBITDA": stock.info.get('ebitda'),
-            "Price/Sales": stock.info.get('priceToSalesTrailing12Months'),
-            "Price/Book": stock.info.get('priceToBook'),
-            'SEC Filings': f"{EDGAR_BASE_URL}{symbol}"
+            "Name": name[idx],
+            "Sector": sector[idx],
+            "Price": info.get("currentPrice"),
+            "Price/Earnings": info.get("trailingPE"),
+            "Dividend Yield": info.get("dividendYield"),
+            "Earnings/Share": info.get("trailingEps"),
+            "52 Week Low": info.get("fiftyTwoWeekLow"),
+            "52 Week High": info.get("fiftyTwoWeekHigh"),
+            "Market Cap": info.get("marketCap"),
+            "EBITDA": info.get("ebitda"),
+            "Price/Sales": info.get("priceToSalesTrailing12Months"),
+            "Price/Book": info.get("priceToBook"),
+            "SEC Filings": f"{EDGAR_BASE_URL}{symbol}",
         }
-        
-        # Append the stock's data to the list
+
         stock_data.append(data)
 
         # Delay
         time.sleep(1)
 
-    with open('../data/constituents-financials.csv', 'w', newline='') as f:
+    if not stock_data:
+        raise RuntimeError("No stock data could be retrieved")
+
+    with open("../data/constituents-financials.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=stock_data[0].keys())
         writer.writeheader()
         writer.writerows(stock_data)
     print("Data has been written to constituents-financials.csv")
 
+
 def process():
     print("Processing...")
     # List down all the symbols from the constituents.csv file
-    with open('../data/constituents.csv') as f:
+    with open("../data/constituents.csv") as f:
         reader = csv.reader(f)
         read_symbols = list(reader)
 
@@ -72,7 +84,7 @@ def process():
 
     create_full_list(list_of_symbols, name, sector)
     print("Done!")
-    
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     process()
