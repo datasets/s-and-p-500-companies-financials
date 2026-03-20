@@ -8,7 +8,45 @@
       "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
+  "views": [
+    {
+      "name": "market-cap-vs-pe",
+      "title": "S&P 500: Market Cap vs. P/E Ratio by Sector",
+      "description": "Each dot represents an S&P 500 company, plotted by its price-to-earnings ratio (x) against market capitalisation in billions of USD (y). Companies with negative P/E (unprofitable) and extreme outliers (P/E > 100) are excluded. Technology companies tend to command high valuations relative to earnings; financials cluster at lower multiples.",
+      "resources": ["scatter-data"],
+      "specType": "plot",
+      "spec": {
+        "height": 460,
+        "marginLeft": 65,
+        "x": { "label": "Price/Earnings Ratio", "grid": true },
+        "y": { "label": "Market Cap (USD Billions)", "grid": true },
+        "color": { "legend": true },
+        "marks": [
+          {
+            "type": "dot",
+            "x": "pe_ratio", "y": "market_cap_b",
+            "fill": "sector", "stroke": "sector",
+            "fillOpacity": 0.6, "r": 4, "tip": true
+          }
+        ]
+      }
+    }
+  ],
   "resources": [
+    {
+      "name": "scatter-data",
+      "path": "data/scatter-data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "company", "type": "string" },
+          { "name": "sector", "type": "string" },
+          { "name": "market_cap_b", "type": "number", "description": "Market cap in USD billions" },
+          { "name": "pe_ratio", "type": "number", "description": "Price/Earnings ratio" }
+        ]
+      }
+    },
     {
       "name": "constituents",
       "path": "data/constituents.csv",
