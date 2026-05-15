@@ -47,37 +47,6 @@
   ],
   "resources": [
     {
-      "name": "scatter-data",
-      "path": "data/scatter-data.csv",
-      "description": "Filtered view of S&P 500 constituents for scatter plot visualisation: companies with positive P/E ratios below 100, with market capitalisation expressed in USD billions.",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "schema": {
-        "fields": [
-          {
-            "name": "company",
-            "type": "string",
-            "description": "Full company name"
-          },
-          {
-            "name": "sector",
-            "type": "string",
-            "description": "GICS sector classification"
-          },
-          {
-            "name": "market_cap_b",
-            "type": "number",
-            "description": "Market capitalisation in USD billions"
-          },
-          {
-            "name": "pe_ratio",
-            "type": "number",
-            "description": "Trailing price-to-earnings ratio"
-          }
-        ]
-      }
-    },
-    {
       "name": "constituents",
       "path": "data/constituents.csv",
       "description": "List of all S&P 500 index constituents with ticker symbol, company name, and GICS sector, sourced from Wikipedia.",
@@ -180,6 +149,37 @@
             "name": "SEC Filings",
             "description": "URL to the company's EDGAR filing page on SEC.gov",
             "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "scatter-data",
+      "path": "data/scatter-data.csv",
+      "description": "Filtered view of S&P 500 constituents for scatter plot visualisation: companies with positive P/E ratios below 100, with market capitalisation expressed in USD billions.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "company",
+            "type": "string",
+            "description": "Full company name"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "description": "GICS sector classification"
+          },
+          {
+            "name": "market_cap_b",
+            "type": "number",
+            "description": "Market capitalisation in USD billions"
+          },
+          {
+            "name": "pe_ratio",
+            "type": "number",
+            "description": "Trailing price-to-earnings ratio"
           }
         ]
       }
