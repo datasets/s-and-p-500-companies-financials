@@ -39,7 +39,8 @@
             "type": "dot",
             "x": "pe_ratio", "y": "market_cap_b",
             "fill": "sector", "stroke": "sector",
-            "fillOpacity": 0.6, "r": 4, "tip": true
+            "fillOpacity": 0.6, "r": 4, "tip": true,
+            "channels": {"Company": {"value": "company"}}
           }
         ]
       }
