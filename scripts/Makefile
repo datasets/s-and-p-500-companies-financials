@@ -12,7 +12,10 @@ List_of_S%26P_500_companies.html:
 ../data/constituents-financials.csv: ../data ../data/constituents.csv constituents-financials.py
 	python constituents-financials.py
 
-valid.txt: ../data/constituents.csv ../data/constituents-financials.csv ../datapackage.json validate.py
+../data/scatter-data.csv: ../data ../data/constituents-financials.csv scatter-data.py
+	python scatter-data.py
+
+valid.txt: ../data/constituents.csv ../data/constituents-financials.csv ../data/scatter-data.csv ../datapackage.json validate.py
 	python validate.py
 	echo "Datapackage is valid" > valid.txt
 

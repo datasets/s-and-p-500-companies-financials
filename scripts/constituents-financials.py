@@ -1,10 +1,8 @@
 import csv
-import time
-import random
-import requests_cache
 import yfinance as yf
 
 from requests import Session
+from requests.adapters import HTTPAdapter
 from requests_cache import CacheMixin, SQLiteCache
 from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
 from pyrate_limiter import Duration, RequestRate, Limiter
@@ -14,6 +12,13 @@ class CachedLimiterSession(CacheMixin, LimiterMixin, Session):
     pass
 
 
+class TimeoutHTTPAdapter(HTTPAdapter):
+    """Enforce a connect/read timeout on every request to prevent hangs."""
+    def send(self, request, **kwargs):
+        kwargs.setdefault("timeout", 30)
+        return super().send(request, **kwargs)
+
+
 session = CachedLimiterSession(
     limiter=Limiter(
         RequestRate(2, Duration.SECOND * 5)
@@ -21,6 +26,8 @@ session = CachedLimiterSession(
     bucket_class=MemoryQueueBucket,
     backend=SQLiteCache("yfinance.cache"),
 )
+session.mount("https://", TimeoutHTTPAdapter())
+session.mount("http://", TimeoutHTTPAdapter())
 
 EDGAR_BASE_URL = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK="
 
@@ -57,9 +64,6 @@ def create_full_list(list_of_symbols, name, sector):
         }
 
         stock_data.append(data)
-
-        # Delay
-        time.sleep(1)
 
     if not stock_data:
         raise RuntimeError("No stock data could be retrieved")
