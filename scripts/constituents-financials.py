@@ -1,50 +1,26 @@
 import csv
+import time
 import yfinance as yf
-
-from requests import Session
-from requests.adapters import HTTPAdapter
-from requests_cache import CacheMixin, SQLiteCache
-from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
-from pyrate_limiter import Duration, RequestRate, Limiter
-
-
-class CachedLimiterSession(CacheMixin, LimiterMixin, Session):
-    pass
-
-
-class TimeoutHTTPAdapter(HTTPAdapter):
-    """Enforce a connect/read timeout on every request to prevent hangs."""
-    def send(self, request, **kwargs):
-        kwargs.setdefault("timeout", 30)
-        return super().send(request, **kwargs)
-
-
-session = CachedLimiterSession(
-    limiter=Limiter(
-        RequestRate(2, Duration.SECOND * 5)
-    ),  # max 2 requests per 5 seconds
-    bucket_class=MemoryQueueBucket,
-    backend=SQLiteCache("yfinance.cache"),
-)
-session.mount("https://", TimeoutHTTPAdapter())
-session.mount("http://", TimeoutHTTPAdapter())
 
 EDGAR_BASE_URL = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK="
 
 
 def create_full_list(list_of_symbols, name, sector):
     print("Retrieving stock data from Yahoo Finance...")
-    # Initialize an empty list to store stock data
     stock_data = []
 
-    # Loop over each stock symbol
     for idx, symbol in enumerate(list_of_symbols):
-        stock = yf.Ticker(symbol, session=session)
         info = {}
         try:
-            info = stock.info or {}
+            info = yf.Ticker(symbol).info or {}
         except Exception as exc:
             print(f"Warning: failed to fetch data for {symbol}: {exc}")
+
+        # yfinance >=1.0 returns dividendYield as a percentage (e.g. 2.1 = 2.1%);
+        # store as a decimal (e.g. 0.021) to match the declared schema format.
+        div_yield = info.get("dividendYield")
+        if div_yield is not None:
+            div_yield = round(div_yield / 100, 6)
 
         data = {
             "Symbol": symbol,
@@ -52,7 +28,7 @@ def create_full_list(list_of_symbols, name, sector):
             "Sector": sector[idx],
             "Price": info.get("currentPrice"),
             "Price/Earnings": info.get("trailingPE"),
-            "Dividend Yield": info.get("dividendYield"),
+            "Dividend Yield": div_yield,
             "Earnings/Share": info.get("trailingEps"),
             "52 Week Low": info.get("fiftyTwoWeekLow"),
             "52 Week High": info.get("fiftyTwoWeekHigh"),
@@ -64,6 +40,7 @@ def create_full_list(list_of_symbols, name, sector):
         }
 
         stock_data.append(data)
+        time.sleep(0.5)
 
     if not stock_data:
         raise RuntimeError("No stock data could be retrieved")
@@ -77,14 +54,13 @@ def create_full_list(list_of_symbols, name, sector):
 
 def process():
     print("Processing...")
-    # List down all the symbols from the constituents.csv file
     with open("../data/constituents.csv") as f:
         reader = csv.reader(f)
         read_symbols = list(reader)
 
-    list_of_symbols = [symbol[0] for symbol in read_symbols[1:]]
-    name = [symbol[1] for symbol in read_symbols[1:]]
-    sector = [symbol[2] for symbol in read_symbols[1:]]
+    list_of_symbols = [row[0] for row in read_symbols[1:]]
+    name = [row[1] for row in read_symbols[1:]]
+    sector = [row[2] for row in read_symbols[1:]]
 
     create_full_list(list_of_symbols, name, sector)
     print("Done!")
