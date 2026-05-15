@@ -1,11 +1,24 @@
 {
   "name": "s-and-p-500-companies-financials",
   "title": "S&P 500 Companies with Financial Information",
+  "description": "S&P 500 (Standard and Poor's 500) index constituent companies with associated financial data. Includes stock price, market capitalisation, price/earnings ratio, dividend yield, earnings per share, and other key metrics. Constituent list is sourced from Wikipedia; financial data is sourced via Yahoo Finance.",
   "licenses": [
     {
       "name": "ODC-PDDL-1.0",
       "path": "http://opendatacommons.org/licenses/pddl/",
       "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "sources": [
+    {
+      "name": "wikipedia-sp500",
+      "title": "Wikipedia: List of S&P 500 companies",
+      "path": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+    },
+    {
+      "name": "yahoo-finance",
+      "title": "Yahoo Finance (via yfinance)",
+      "path": "https://finance.yahoo.com"
     }
   ],
   "views": [
@@ -36,37 +49,55 @@
     {
       "name": "scatter-data",
       "path": "data/scatter-data.csv",
+      "description": "Filtered view of S&P 500 constituents for scatter plot visualisation: companies with positive P/E ratios below 100, with market capitalisation expressed in USD billions.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
-          { "name": "company", "type": "string" },
-          { "name": "sector", "type": "string" },
-          { "name": "market_cap_b", "type": "number", "description": "Market cap in USD billions" },
-          { "name": "pe_ratio", "type": "number", "description": "Price/Earnings ratio" }
+          {
+            "name": "company",
+            "type": "string",
+            "description": "Full company name"
+          },
+          {
+            "name": "sector",
+            "type": "string",
+            "description": "GICS sector classification"
+          },
+          {
+            "name": "market_cap_b",
+            "type": "number",
+            "description": "Market capitalisation in USD billions"
+          },
+          {
+            "name": "pe_ratio",
+            "type": "number",
+            "description": "Trailing price-to-earnings ratio"
+          }
         ]
       }
     },
     {
       "name": "constituents",
       "path": "data/constituents.csv",
+      "description": "List of all S&P 500 index constituents with ticker symbol, company name, and GICS sector, sourced from Wikipedia.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
             "name": "Symbol",
-            "description": "",
+            "description": "Stock ticker symbol (e.g. AAPL)",
             "type": "string"
           },
           {
             "name": "Name",
-            "description": "",
+            "description": "Full company name",
             "type": "string"
           },
           {
             "name": "Sector",
-            "description": "",
+            "description": "GICS sector classification",
             "type": "string"
           }
         ]
@@ -75,78 +106,79 @@
     {
       "name": "constituents-financials",
       "path": "data/constituents-financials.csv",
+      "description": "S&P 500 constituent companies with key financial metrics sourced via Yahoo Finance, including stock price, market capitalisation, earnings, dividends, and valuation ratios.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
             "name": "Symbol",
-            "description": "",
+            "description": "Stock ticker symbol (e.g. AAPL)",
             "type": "string"
           },
           {
             "name": "Name",
-            "description": "",
+            "description": "Full company name",
             "type": "string"
           },
           {
             "name": "Sector",
-            "description": "",
+            "description": "GICS sector classification",
             "type": "string"
           },
           {
             "name": "Price",
-            "description": "",
+            "description": "Current stock price in USD",
             "type": "number"
           },
           {
             "name": "Price/Earnings",
-            "description": "",
+            "description": "Trailing twelve-month price-to-earnings ratio",
             "type": "number"
           },
           {
             "name": "Dividend Yield",
-            "description": "",
+            "description": "Annual dividend yield as a decimal (e.g. 0.02 = 2%)",
             "type": "number"
           },
           {
             "name": "Earnings/Share",
-            "description": "",
+            "description": "Trailing twelve-month earnings per share in USD",
             "type": "number"
           },
           {
             "name": "52 Week Low",
-            "description": "",
+            "description": "Lowest stock price over the trailing 52 weeks in USD",
             "type": "number"
           },
           {
             "name": "52 Week High",
-            "description": "",
+            "description": "Highest stock price over the trailing 52 weeks in USD",
             "type": "number"
           },
           {
             "name": "Market Cap",
-            "description": "",
-            "type": "number"
+            "description": "Market capitalisation in raw USD (e.g. 83294183424 ≈ $83.3 billion)",
+            "type": "integer"
           },
           {
             "name": "EBITDA",
-            "description": "",
-            "type": "number"
+            "description": "Earnings before interest, taxes, depreciation, and amortisation in raw USD",
+            "type": "integer"
           },
           {
             "name": "Price/Sales",
-            "description": "",
+            "description": "Price-to-sales ratio (trailing 12 months)",
             "type": "number"
           },
           {
             "name": "Price/Book",
-            "description": "",
+            "description": "Price-to-book ratio",
             "type": "number"
           },
           {
             "name": "SEC Filings",
-            "description": "",
+            "description": "URL to the company's EDGAR filing page on SEC.gov",
             "type": "string"
           }
         ]

@@ -25,7 +25,7 @@ free but registration was required.
 
 Notes:
 
-* Market Capitalization and EBIDTA are in Billions.
+* In `constituents-financials.csv`, Market Cap and EBITDA are in raw USD (e.g. `83294183424` ≈ $83.3 billion). In `scatter-data.csv`, the `market_cap_b` column is in USD billions.
 
 [sp-home]: http://www.spindices.com/indices/equity/sp-500
 [sp-list]: http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
