@@ -8,6 +8,9 @@ capitalization, earnings, price/earnings ratio, price to book etc.
 
 ## Data
 
+Information on S&P 500 index used to be available on the [official S&P website][sp-home]
+but until they publish it back, Wikipedia is the best up-to-date and open data source.
+
 * Index listing - see `data/constituents.csv` extracted from Wikipedia's [List of S&P 500 companies][sp-list]
 * Constituent financials - see `data/constituents-financials.csv` (source via Yahoo Finance)
 * Scatter plot data - see `data/scatter-data.csv` (derived from `constituents-financials.csv`; companies with positive P/E ≤ 100, market cap in USD billions)
@@ -17,6 +20,7 @@ Notes:
 * In `constituents-financials.csv`, Market Cap and EBITDA are in raw USD (e.g. `83294183424` ≈ $83.3 billion). In `scatter-data.csv`, the `market_cap_b` column is in USD billions.
 * Some financial fields (e.g. Dividend Yield, Earnings/Share, Price/Book) may be absent for certain companies where Yahoo Finance does not report a value.
 
+[sp-home]: https://www.spindices.com/indices/equity/sp-500
 [sp-list]: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
 *Note*: For aggregate S&P 500 data (dividends, earnings, etc), see the [Standard and Poor's 500 Dataset][shiller].
