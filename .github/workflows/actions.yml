@@ -2,7 +2,7 @@ name: Automated Workflow for s-and-p-500 dataset
 
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
