@@ -8,42 +8,32 @@ capitalization, earnings, price/earnings ratio, price to book etc.
 
 ## Data
 
-Information on S&P 500 index used to be available on the [official webpage on the Standard and Poor's website][sp-home]
+Information on S&P 500 index used to be available on the [official S&P website][sp-home]
 but until they publish it back, Wikipedia is the best up-to-date and open data source.
 
-* Index listing - see `data/constituents.csv` extracted from Wikipedia's [SP500 list of companies][sp-list]
+* Index listing - see `data/constituents.csv` extracted from Wikipedia's [List of S&P 500 companies][sp-list]
 * Constituent financials - see `data/constituents-financials.csv` (source via Yahoo Finance)
-
-Detailed information on the S&P 500 (primarily in XLS format) used to be obtained
-from its [official webpage on the Standard and Poor's website][sp-home] - it was
-free but registration was required.
-* Index listing - see `data/constituents.csv` used to be extracted from [source Excel file on S&P website][sp-listing-dec-2014] (Note this Excel is actually S&P 500 EPS 
-   estimates but on sheet 4 it has list of members - [previous file][sp-lsting]
-   was just members but that 404s as of Dec 2014) (Note: <del>but note you have
-   to register and login to access</del> - no longer true as of August 2013)
-* Historical performance ([source XLS on S&P website][sp-historical])
+* Scatter plot data - see `data/scatter-data.csv` (derived from `constituents-financials.csv`; companies with positive P/E ≤ 100, market cap in USD billions)
 
 Notes:
 
-* Market Capitalization and EBIDTA are in Billions.
+* In `constituents-financials.csv`, Market Cap and EBITDA are in raw USD (e.g. `83294183424` ≈ $83.3 billion). In `scatter-data.csv`, the `market_cap_b` column is in USD billions.
+* Some financial fields (e.g. Dividend Yield, Earnings/Share, Price/Book) may be absent for certain companies where Yahoo Finance does not report a value.
 
-[sp-home]: http://www.spindices.com/indices/equity/sp-500
-[sp-list]: http://en.wikipedia.org/wiki/List_of_S%26P_500_companies
-[sp-listing-dec-2014]: http://www.spindices.com/documents/additional-material/sp-500-eps-est.xlsx?force_download=true
-[sp-listing]: http://us.spindices.com/idsexport/file.xls?hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&selectedModule=Constituents&selectedSubModule=ConstituentsFullList&indexId=340
-[sp-historical]: http://www.standardandpoors.com/prot/spf/docs/indices/SPUSA-500-USDUF--P-US-L--HistoricalData.xls
+[sp-home]: https://www.spindices.com/indices/equity/sp-500
+[sp-list]: https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
-*Note*: For aggregate information on the S&P (dividends, earnings, etc), see [Standard and Poor's 500 Dataset][shiller].
+*Note*: For aggregate S&P 500 data (dividends, earnings, etc), see the [Standard and Poor's 500 Dataset][shiller].
 
-[shiller]: http://data.okfn.org/data/s-and-p-500
+[shiller]: https://datahub.io/core/s-and-p-500
 
 ### Preparation
 
-You can run the script yourself to update the data and publish them to GitHub : see [scripts README](https://github.com/datasets/s-and-p-500-companies-financials/blob/master/scripts/README.md).
+You can run the script yourself to update the data and publish them to GitHub: see [scripts README](https://github.com/datasets/s-and-p-500-companies-financials/blob/master/scripts/README.md).
 
 ## General Financial Notes
 
-Publicly listed US companies are obliged various reports on a regular basis
+Publicly listed US companies are obliged to file various reports on a regular basis
 with the SEC. Of these 2 types are of especial interest to investors and others
 interested in their finances and business. These are:
 
@@ -56,8 +46,7 @@ All data is licensed under the [Open Data Commons Public Domain Dedication and
 License][pddl]. All code is licensed under the MIT/BSD license.
 
 Note that while no credit is formally required, a link back or credit to [Rufus
-Pollock][rp] and the [Open Knowledge Foundation][okfn] is much appreciated.
+Pollock](https://rufuspollock.com/) and the [Open Knowledge Foundation][okfn] is much appreciated.
 
 [pddl]: http://opendatacommons.org/licenses/pddl/1.0/
-[rp]: http://dev.rufuspollock.org/
-[okfn]: http://okfn.org/
+[okfn]: https://okfn.org/
