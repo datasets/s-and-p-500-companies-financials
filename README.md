@@ -44,11 +44,5 @@ License][pddl]. All code is licensed under the MIT/BSD license.
 Note that while no credit is formally required, a link back or credit to [Rufus
 Pollock](https://rufuspollock.com/) and the [Open Knowledge Foundation][okfn] is much appreciated.
 
-**Upstream licensing note**: The constituent list (`constituents.csv`) is derived from
-Wikipedia, which is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-Financial data (`constituents-financials.csv`) is sourced via Yahoo Finance; please
-review Yahoo Finance's [Terms of Service](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
-before commercial use.
-
 [pddl]: http://opendatacommons.org/licenses/pddl/1.0/
 [okfn]: https://okfn.org/
