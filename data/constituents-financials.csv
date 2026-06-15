@@ -50,7 +50,7 @@ T,AT&T,Integrated Telecommunication Services,23.58,7.756579,0.0471,3.04,22.32,29
 ATO,Atmos Energy,Gas Utilities,169.96,20.931036,0.0235,8.12,149.98,192.51,28369694720,2540303104,5.811984,1.9028853,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ATO
 ADSK,Autodesk,Application Software,198.43,28.967882,,6.85,194.47,329.09,41897549824,2139000064,5.581131,13.128886,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADSK
 ADP,Automatic Data Processing,Human Resource & Employment Services,226.21,21.101679,0.0301,10.72,188.16,315.98,90423894016,6339899904,4.186214,14.271025,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ADP
-AZO,AutoZone,Automotive Retail,3116.3,21.413454,,145.53,2928.11,4388.11,51010715648,4266778880,2.552271,-18.319216,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
+AZO,AutoZone,Automotive Retail,3116.3,21.413454,,145.53,2928.11,4388.11,51010715648,4263984896,2.552271,-18.319216,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AZO
 AVB,AvalonBay Communities,Multi-Family Residential REITs,187.03,23.204714,0.0381,8.06,160.1,209.86,26534332416,1846126976,8.671181,2.2611103,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVB
 AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials,159.25,17.913385,0.0251,8.89,152.42,199.54,12181093376,1443000064,1.3525982,5.306918,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVY
 AXON,Axon Enterprise,Aerospace & Defense,441.73,178.83806,,2.47,339.01,885.92,35604357120,102861000,11.934763,10.070675,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXON
@@ -174,7 +174,7 @@ EOG,EOG Resources,Oil & Gas Exploration & Production,136.65,13.436578,0.0299,10.
 EPAM,EPAM Systems,IT Consulting & Other Services,95.38,13.704022,,6.96,89.25,222.53,4983075840,731454976,0.89697474,1.4665723,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EPAM
 EQT,EQT Corporation,Oil & Gas Exploration & Production,51.94,9.855787,0.0127,5.27,48.47,68.24,32487327744,7665675776,3.4693387,1.2933588,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQT
 EFX,Equifax,Research & Consulting Services,163.71,28.822186,0.0137,5.68,153.91,275.91,19749091328,1928899968,3.144059,4.3012533,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EFX
-EQIX,Equinix,Data Center REITs,1055.85,72.96821,0.0187,14.47,710.52,1128.68,104132411392,4281999872,10.93139,7.2829294,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX
+EQIX,Equinix,Data Center REITs,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQIX
 EQR,Equity Residential,Multi-Family Residential REITs,67.34,26.935999,0.0417,2.5,57.57,69.87,26018557952,1892307968,8.358047,2.3682082,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=EQR
 ERIE,Erie Indemnity,Insurance Brokers,226.67,20.757326,0.0258,10.92,204.63,380.67,11852544000,826961984,2.8980956,5.036104,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ERIE
 ESS,Essex Property Trust,Multi-Family Residential REITs,283.75,31.953829,0.0365,8.88,238.46,294.09,19557806080,1278588032,9.947908,3.357114,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ESS
@@ -194,7 +194,7 @@ FAST,Fastenal,Trading Companies & Distributors,46.57,41.21239,0.0198,1.13,38.97,
 FRT,Federal Realty Investment Trust,Retail REITs,125.84,21.771626,0.0359,5.78,89.99,126.41,10937810944,836086016,8.331609,3.4496558,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FRT
 FDX,FedEx,Air Freight & Logistics,338.31,18.052828,0.0144,18.74,174.13376,342.81,80723050496,11559999488,0.8780639,2.712926,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FDX
 FIS,Fidelity National Information Services,Transaction & Payment Processing Services,39.2,7.5968995,0.0429,5.16,37.91,82.74,20261662720,3308000000,1.7711244,1.2684853,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FIS
-FITB,Fifth Third Bancorp,Regional Banks,53.42,17.98653,0.0292,2.97,37.88,55.44,48415162368,,5.3794627,1.515762,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
+FITB,Fifth Third Bancorp,Regional Banks,54.73,18.427608,0.0292,2.97,37.88,55.44,49602428928,,5.511381,1.5529325,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FITB
 FSLR,First Solar,Semiconductors,267.31,17.268087,,15.48,135.5,320.95,28723357696,2272688896,5.3004436,2.9076295,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FSLR
 FE,FirstEnergy,Electric Utilities,47.03,25.559782,0.0395,1.84,39.28,52.34,27203616768,5169999872,1.773609,2.1498446,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FE
 FI,Fiserv,Transaction & Payment Processing Services,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FI
@@ -363,7 +363,7 @@ OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components,70.75,18.81649,
 PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment,118.52,25.16348,0.0118,4.71,90.05,131.88,62375444480,3222000128,2.2453687,3.1569974,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PCAR
 PKG,Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,228.23,27.697815,0.0263,8.24,184.76,249.51,20334983168,1963299968,2.2064629,4.404964,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PKG
 PLTR,Palantir Technologies,Internet Services & Infrastructure,127.99,142.2111,,0.9,122.68,207.52,306831949824,2018253056,58.7331,36.30922,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLTR
-PANW,Palo Alto Networks,Systems Software,279.62,243.14783,,1.15,139.57,302.95,227890298880,1483500032,21.48591,8.216384,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PANW
+PANW,Palo Alto Networks,Systems Software,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PANW
 PARA,Paramount Global,Movies & Entertainment,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PARA
 PH,Parker Hannifin,Industrial Machinery & Supplies & Components,903.48,33.338745,0.0089,27.1,646.51,1034.96,113916534784,5479000064,5.427957,7.7976956,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PH
 PAYX,Paychex,Human Resource & Employment Services,100.63,22.214127,0.0473,4.53,85.45,154.9,36054810624,1608000000,9.086393,8.983217,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PAYX
@@ -453,7 +453,7 @@ TT,Trane Technologies,Building Products,458.25,34.954235,0.0092,13.11,348.06,503
 TDG,TransDigm Group,Aerospace & Defense,1256.05,39.2148,,32.03,1123.61,1623.83,70255378432,4850999808,7.3929687,-7.641741,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TDG
 TRV,Travelers Companies (The),Property & Casualty Insurance,304.46,9.082935,0.0164,33.52,249.19,313.12,64741797888,10574000128,1.322827,2.0236354,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRV
 TRMB,Trimble Inc.,Electronic Equipment & Instruments,50.42,26.397905,,1.91,48.9,87.5,11753482240,866899968,3.1881633,2.0723386,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRMB
-TFC,Truist Financial,Diversified Banks,51.66,12.787128,0.0403,4.04,38.88,56.2,64362123264,,3.4497576,1.082066,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TFC
+TFC,Truist Financial,Diversified Banks,51.66,12.787128,0.0403,4.04,38.88,56.2,64362123264,,3.4497576,1.0854081,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TFC
 TYL,Tyler Technologies,Application Software,298.84,41.333332,,7.23,283.72,621.34,12294444032,454520000,5.164262,3.5649185,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TYL
 TSN,Tyson Foods,Packaged Foods & Meats,57.43,45.220474,0.0355,1.27,50.56,69.48,20222791680,2710000128,0.3630011,1.1174022,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSN
 USB,U.S. Bancorp,Diversified Banks,58.94,12.356394,0.035,4.77,42.55,61.19,91812708352,,3.4455178,1.5701841,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=USB
