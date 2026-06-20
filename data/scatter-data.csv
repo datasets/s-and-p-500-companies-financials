@@ -106,10 +106,10 @@ Colgate-Palmolive,Household Products,71.6,34.68
 Comcast,Cable & Satellite,80.13,4.4
 ConocoPhillips,Oil & Gas Exploration & Production,131.26,18.26
 Consolidated Edison,Multi-Utilities,39.2,17.94
-Constellation Brands,Distillers & Vintners,24.22,14.69
+Constellation Brands,Distillers & Vintners,24.31,14.69
 Constellation Energy,Electric Utilities,97.87,23.83
 Cooper Companies (The),Health Care Supplies,12.85,55.86
-Copart,Diversified Support Services,27.99,18.78
+Copart,Diversified Support Services,29.12,18.78
 Corning Inc.,Electronic Components,167.76,98.94
 Corpay,Transaction & Payment Processing Services,22.57,20.69
 Corteva,Fertilizers & Agricultural Chemicals,52.56,42.48
@@ -124,7 +124,7 @@ Danaher Corporation,Life Sciences Tools & Services,125.4,34.27
 Darden Restaurants,Restaurants,24.45,22.49
 DaVita,Health Care Services,13.34,20.01
 Deckers Brands,Footwear,15.15,15.54
-Deere & Company,Agricultural & Farm Machinery,159.06,33.33
+Deere & Company,Agricultural & Farm Machinery,159.16,33.33
 Dell Technologies,"Technology Hardware, Storage & Peripherals",265.4,32.58
 Delta Air Lines,Passenger Airlines,55.31,12.29
 Devon Energy,Oil & Gas Exploration & Production,48.58,11.73
@@ -159,7 +159,7 @@ Essex Property Trust,Multi-Family Residential REITs,18.87,30.79
 Everest Group,Reinsurance,13.28,6.83
 Evergy,Electric Utilities,19.02,21.94
 Eversource Energy,Electric Utilities,26.17,14.9
-Exelon,Electric Utilities,46.87,16.66
+Exelon,Electric Utilities,46.87,16.78
 Expedia Group,"Hotels, Resorts & Cruise Lines",28.91,21.26
 Expeditors International,Air Freight & Logistics,21.1,26.1
 Extra Space Storage,Self-Storage REITs,32.07,32.66
@@ -205,11 +205,11 @@ Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",62.78,44
 Hilton Worldwide,"Hotels, Resorts & Cruise Lines",79.41,53.26
 Home Depot (The),Home Improvement Retail,333.32,23.72
 Honeywell,Industrial Conglomerates,145.11,36.52
-Hormel Foods,Packaged Foods & Meats,13.3,28.42
+Hormel Foods,Packaged Foods & Meats,13.29,28.42
 Host Hotels & Resorts,Hotel & Resort REITs,17.35,17.01
 Howmet Aerospace,Aerospace & Defense,111.09,64.57
 HP Inc.,"Technology Hardware, Storage & Peripherals",21.49,8.7
-Hubbell Incorporated,Industrial Machinery & Supplies & Components,27.67,30.99
+Hubbell Incorporated,Industrial Machinery & Supplies & Components,27.67,30.91
 Humana,Managed Health Care,43.3,38.41
 Huntington Bancshares,Regional Banks,34.18,12.97
 Huntington Ingalls Industries,Aerospace & Defense,11.25,18.53
@@ -255,7 +255,7 @@ Linde plc,Industrial Gases,236.79,33.96
 LKQ Corporation,Distributors,6.57,12.9
 Lockheed Martin,Aerospace & Defense,117.81,24.77
 Loews Corporation,Multi-line Insurance,22.07,13.65
-Lowe's,Home Improvement Retail,124.59,18.78
+Lowe's,Home Improvement Retail,124.65,18.78
 Lululemon Athletica,"Apparel, Accessories & Luxury Goods",12.69,9.05
 M&T Bank,Regional Banks,32.97,12.64
 Marathon Petroleum,Oil & Gas Refining & Marketing,70.91,16.0
@@ -316,7 +316,7 @@ Parker Hannifin,Industrial Machinery & Supplies & Components,120.19,35.15
 Paychex,Human Resource & Employment Services,35.2,21.69
 Paycom,Human Resource & Employment Services,5.82,14.45
 PayPal,Transaction & Payment Processing Services,37.5,7.98
-Pentair,Industrial Machinery & Supplies & Components,12.01,18.67
+Pentair,Industrial Machinery & Supplies & Components,12.01,18.44
 PepsiCo,Soft Drinks & Non-alcoholic Beverages,194.13,22.3
 Pfizer,Pharmaceuticals,143.68,19.24
 PG&E Corporation,Multi-Utilities,36.29,12.78
