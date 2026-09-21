@@ -281,7 +281,7 @@ KMI,Kinder Morgan,Oil & Gas Storage & Transportation,31.84,20.541937,0.0371,1.55
 KKR,KKR,Asset Management & Custody Banks,98.81,31.568687,0.0079,3.13,82.67,152.1,91259977728,,3.5326738,3.1121259,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KKR
 KLAC,KLA Corporation,Semiconductor Materials & Equipment,176.99,48.357925,0.0052,3.66,98.097,307.37,231245725696,6054757888,17.02906,36.43269,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
 KHC,Kraft Heinz,Packaged Foods & Meats,24.43,,0.0655,-2.88,21.035,28.09,28969674752,5493000192,1.1634408,0.8047037,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
-KR,Kroger,Food Retail,60.0,32.43243,0.026,1.85,54.15,76.58,35760001024,8042999808,0.23947604,6.4850845,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
+KR,Kroger,Food Retail,60.0,32.43243,0.026,1.85,54.15,76.58,35760001024,8042999808,0.23947604,6.1168313,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KR
 LHX,L3Harris,Aerospace & Defense,247.29,25.004044,0.0202,9.89,244.76,379.23,46049013760,4142000128,2.0080678,2.3153844,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LHX
 LH,LabCorp,Health Care Services,320.71,26.52688,0.009,12.09,244.52,341.8,26009579520,2319800064,1.8127669,3.0145316,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
 LRCX,Lam Research,Semiconductor Materials & Equipment,288.11,50.019093,0.0046,5.76,125.02,438.5,360518057984,8641328128,15.517706,28.90639,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX
@@ -397,7 +397,7 @@ RL,Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",335.1,21.10201
 RJF,Raymond James Financial,Investment Banking & Brokerage,164.75,14.363557,0.0131,11.47,138.82,182.73,31691591680,,2.079501,2.492511,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RJF
 O,Realty Income,Retail REITs,56.66,41.357662,0.0575,1.37,55.86,67.94,53612716032,5357639168,8.838947,1.3555672,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=O
 REG,Regency Centers,Retail REITs,72.95,24.562288,0.0414,2.97,66.86,83.66,13638639616,1071214976,8.091593,2.004286,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REG
-REGN,Regeneron Pharmaceuticals,Biotechnology,784.85,19.417368,0.0048,40.42,541.0,859.34,80804225024,4702400000,5.2015314,2.4828303,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REGN
+REGN,Regeneron Pharmaceuticals,Biotechnology,784.668,19.412867,0.0048,40.42,541.0,859.34,80785489920,4702400000,5.200325,2.4822547,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=REGN
 RF,Regions Financial Corporation,Regional Banks,28.5,11.585365,0.0384,2.46,22.7,32.47,24279992320,,3.3545167,1.3910581,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RF
 RSG,Republic Services,Environmental & Facilities Services,218.07,30.844414,0.0123,7.07,196.41,233.42,66775867392,5256999936,3.95334,5.546033,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RSG
 RMD,ResMed,Health Care Equipment,224.99,21.550768,0.0117,10.44,180.27,284.87,32455325696,2095774976,5.740807,4.92794,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RMD
@@ -482,23 +482,23 @@ WRB,W. R. Berkley Corporation,Property & Casualty Insurance,69.99,14.401234,0.00
 GWW,W. W. Grainger,Industrial Machinery & Supplies & Components,1266.61,32.2621,0.0079,39.26,906.52,1419.91,59800608768,3216000000,3.1732879,14.441543,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GWW
 WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment,280.23,37.71602,0.0044,7.43,186.06,306.64,47333888000,2651000064,3.9510758,4.225677,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAB
 WBA,Walgreens Boots Alliance,Drug Retail,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBA
-WMT,Walmart,Consumer Staples Merchandise Retail,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMT
-DIS,Walt Disney Company (The),Movies & Entertainment,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS
-WBD,Warner Bros. Discovery,Broadcasting,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBD
-WM,Waste Management,Environmental & Facilities Services,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WM
-WAT,Waters Corporation,Life Sciences Tools & Services,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAT
-WEC,WEC Energy Group,Electric Utilities,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
-WFC,Wells Fargo,Diversified Banks,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
-WELL,Welltower,Health Care REITs,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WELL
-WST,West Pharmaceutical Services,Health Care Supplies,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WST
-WDC,Western Digital,"Technology Hardware, Storage & Peripherals",,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
-WY,Weyerhaeuser,Timber REITs,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
-WMB,Williams Companies,Oil & Gas Storage & Transportation,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
-WTW,Willis Towers Watson,Insurance Brokers,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WTW
-WYNN,Wynn Resorts,Casinos & Gaming,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN
-XEL,Xcel Energy,Multi-Utilities,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEL
-XYL,Xylem Inc.,Industrial Machinery & Supplies & Components,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
-YUM,Yum! Brands,Restaurants,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
-ZBRA,Zebra Technologies,Electronic Equipment & Instruments,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBRA
-ZBH,Zimmer Biomet,Health Care Equipment,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
-ZTS,Zoetis,Pharmaceuticals,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
+WMT,Walmart,Consumer Staples Merchandise Retail,106.73,38.67029,0.0093,2.76,98.88,135.16,846768766976,44073000960,1.1507512,9.008272,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMT
+DIS,Walt Disney Company (The),Movies & Entertainment,102.67,21.169073,0.0146,4.85,92.19,117.09,177278943232,20963000320,1.7932142,1.6142573,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DIS
+WBD,Warner Bros. Discovery,Broadcasting,27.8,,,-1.28,17.08,30.0,69698396160,7792999936,1.9299015,2.123272,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WBD
+WM,Waste Management,Environmental & Facilities Services,211.1,29.858557,0.0179,7.07,194.11,248.13,84379877376,7774000128,3.287485,8.506951,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WM
+WAT,Waters Corporation,Life Sciences Tools & Services,421.63,106.47222,,3.96,282.77,431.78,41398104064,1452048000,8.913772,2.7255392,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WAT
+WEC,WEC Energy Group,Electric Utilities,103.17,20.033009,0.0369,5.15,102.86,119.91,33617879040,3965199872,3.316223,2.4664707,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
+WFC,Wells Fargo,Diversified Banks,86.12,12.517442,0.0232,6.88,72.78,97.76,260426825728,,3.13669,1.6189796,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
+WELL,Welltower,Health Care REITs,228.87,103.09459,0.0149,2.22,163.75,255.2,164917313536,3340614912,12.921299,3.5449092,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WELL
+WST,West Pharmaceutical Services,Health Care Supplies,362.31,46.27203,0.0024,7.83,223.83,386.0,25497841664,912200000,7.664375,8.53016,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WST
+WDC,Western Digital,"Technology Hardware, Storage & Peripherals",441.36,16.395245,0.0014,26.92,105.42,799.87,159128338432,5001999872,12.317389,21.102556,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
+WY,Weyerhaeuser,Timber REITs,21.22,32.151512,0.0396,0.66,21.16,27.75,15294017536,688000000,2.2320516,1.6172547,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
+WMB,Williams Companies,Oil & Gas Storage & Transportation,72.05,28.705181,0.0291,2.51,56.19,80.08,88129224704,7032999936,7.1516047,6.6985874,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
+WTW,Willis Towers Watson,Insurance Brokers,309.98,19.19381,0.0124,16.15,240.61,352.79,28788443136,2816000000,2.8497767,3.7499244,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WTW
+WYNN,Wynn Resorts,Casinos & Gaming,81.68,19.58753,0.0122,4.17,81.4,134.72,8410907136,1808924032,1.1345508,-49.116055,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WYNN
+XEL,Xcel Energy,Multi-Utilities,72.3,19.80822,0.0328,3.65,71.8,84.23,45161062400,6122999808,3.0898373,1.8765574,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XEL
+XYL,Xylem Inc.,Industrial Machinery & Supplies & Components,107.56,25.670643,0.016,4.19,105.29,154.27,25113841664,1978000000,2.7519004,2.2821982,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=XYL
+YUM,Yum! Brands,Restaurants,137.99,17.40101,0.0217,7.93,134.26,170.14,37657624576,3068000000,4.317545,-5.229271,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=YUM
+ZBRA,Zebra Technologies,Electronic Equipment & Instruments,346.63,31.742674,,10.92,199.05,386.23,16511163392,1184000000,2.8238692,4.782093,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBRA
+ZBH,Zimmer Biomet,Health Care Equipment,95.36,23.145632,0.0101,4.12,79.12,106.88,18188746752,2524999936,2.1376395,1.4397874,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZBH
+ZTS,Zoetis,Pharmaceuticals,71.4,11.6476345,0.0297,6.13,71.0,148.79,29504165888,4065999872,3.0975502,9.108305,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ZTS
