@@ -1,4 +1,4 @@
 yfinance>=1.0.0
-requests==2.32.3
+requests==2.33.0
 goodtables==2.5.4
 beautifulsoup4==4.12.3
