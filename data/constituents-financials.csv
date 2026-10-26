@@ -26,7 +26,7 @@ AMCR,Amcor,Paper & Plastic Packaging Products & Materials,46.11,19.37395,0.0564,
 AMTM,Amentum,Diversified Support Services,21.76,26.216867,0.0,0.83,17.72,38.11,5320459776,1006000000,0.37653643,1.1323308,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMTM
 AEE,Ameren,Multi-Utilities,108.04,19.021128,0.0278,5.68,96.57,118.32,29910147072,3910000128,3.556075,2.1849658,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEE
 AEP,American Electric Power,Electric Utilities,129.69,22.476604,0.0299,5.77,112.54,140.58,70602899456,9029000192,3.0978413,2.200784,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AEP
-AXP,American Express,Consumer Finance,313.22,19.00607,0.0121,16.48,290.97,387.49,211520536576,,2.9053822,5.888701,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP
+AXP,American Express,Consumer Finance,313.22,19.00607,0.0121,16.48,290.97,387.49,210030297088,,2.8829725,5.8711505,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AXP
 AIG,American International Group,Multi-line Insurance,81.26,14.882784,0.0246,5.46,71.25,87.29,42490302464,8145999872,1.589076,1.0500607,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AIG
 AMT,American Tower,Telecom Tower REITs,188.97,25.993122,0.0379,7.27,160.06,202.5,88052473856,7044400128,8.047568,23.671553,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AMT
 AWK,American Water Works,Water Utilities,142.75,24.740034,0.0251,5.77,120.57,144.14,28368564224,2912999936,5.3687673,2.4319396,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AWK
@@ -64,14 +64,14 @@ BBY,Best Buy,Computer & Electronics Retail,99.87,16.617304,0.0384,6.01,55.1,100.
 TECH,Bio-Techne,Life Sciences Tools & Services,72.55,62.543106,0.0044,1.16,43.2,72.69,11377164288,334105984,9.363621,5.371687,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TECH
 BIIB,Biogen,Biotechnology,250.69,44.52753,0.0,5.63,138.0,254.41,37040451584,3359200000,3.6937397,1.9645013,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BIIB
 BLK,BlackRock,Asset Management & Custody Banks,1118.25,25.461067,0.0205,43.92,917.39,1187.17,181689008128,12005999616,6.365672,3.0084422,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BLK
-BX,Blackstone Inc.,Asset Management & Custody Banks,117.97,26.273943,0.0443,4.49,101.73,165.14,141009289216,,8.917581,10.146212,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BX
+BX,Blackstone Inc.,Asset Management & Custody Banks,117.97,26.273943,0.0443,4.49,101.73,165.14,141009289216,,9.11627,10.675053,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BX
 BK,BNY Mellon,Asset Management & Custody Banks,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BK
 BA,Boeing,Aerospace & Defense,188.35,67.26786,0.0,2.8,176.77,254.35,148866203648,-2900000000,1.5837673,24.410316,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BA
 BKNG,Booking Holdings,"Hotels, Resorts & Cruise Lines",155.83,17.276052,0.0108,9.02,150.14,220.806,117087625216,10412999680,4.1460156,-10.953888,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BKNG
 BWA,BorgWarner,Automotive Parts & Equipment,54.96,27.48,0.0124,2.0,40.73,78.82,11193502720,2036000000,0.78036135,1.9913764,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BWA
 BSX,Boston Scientific,Health Care Equipment,45.69,18.497974,0.0,2.47,41.39,105.65,66215297024,5711000064,3.1537101,2.6514623,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BSX
 BMY,Bristol Myers Squibb,Pharmaceuticals,61.48,13.54185,0.041,4.54,42.52,68.64,125586096128,18929999872,2.5532894,5.62746,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BMY
-AVGO,Broadcom,Semiconductors,321.68,42.94793,0.0081,7.49,289.96,495.0,1535581224960,52259999744,17.233583,15.4046545,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
+AVGO,Broadcom,Semiconductors,321.68,41.08301,0.0081,7.83,289.96,495.0,1535581224960,52259999744,17.233583,15.4046545,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=AVGO
 BR,Broadridge Financial Solutions,Data Processing & Outsourced Services,183.28,19.091665,0.0238,9.6,133.83,233.74,20692318208,1808999936,2.7675366,7.355621,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BR
 BRO,Brown & Brown,Insurance Brokers,72.97,23.018927,0.009,3.17,53.81,89.05,24416518144,2892000000,3.664493,1.9137162,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BRO
 BF.B,Brown–Forman,Distillers & Vintners,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=BF.B
@@ -91,7 +91,7 @@ CARR,Carrier Global,Building Products,56.24,40.753624,0.0171,1.38,50.24,76.76,46
 CTLT,Catalent,Pharmaceuticals,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTLT
 CAT,Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,687.0,29.573828,0.0095,23.23,521.43,1073.46,315796652032,16250999808,4.2258916,16.282322,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAT
 CBOE,Cboe Global Markets,Financial Exchanges & Data,340.42,26.533127,0.0101,12.83,227.15,371.18,35550408704,1930700032,7.0239677,6.3266864,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBOE
-CBRE,CBRE Group,Real Estate Services,123.3,26.40257,0.0,4.67,121.69,174.27,35534598144,2214000128,0.7895349,4.1128793,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBRE
+CBRE,CBRE Group,Real Estate Services,123.3,26.40257,0.0,4.67,121.69,174.27,35534598144,2200000000,0.7895349,4.1000233,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CBRE
 CDW,CDW,Technology Distributors,165.11,19.844954,0.0153,8.32,97.12,166.15,20641626112,2010899968,0.8783521,8.471524,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CDW
 CE,Celanese,Specialty Chemicals,47.71,,0.0025,-10.6,35.13,70.7,5236121088,1676999936,0.53913933,1.2565513,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CE
 COR,Cencora,Health Care Distributors,331.0,24.573126,0.0073,13.47,244.82,377.54,63163793408,5546476032,0.18981141,20.703028,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COR
@@ -112,13 +112,13 @@ CSCO,Cisco,Communications Equipment,106.5,31.981983,0.0158,3.33,70.43,130.37,419
 C,Citigroup,Diversified Banks,120.62,11.756335,0.0222,10.26,95.83,147.96,199650230272,,2.3967903,1.0433264,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=C
 CFG,Citizens Financial Group,Regional Banks,65.14,14.191721,0.0319,4.59,49.0,75.33,27438258176,,3.2687943,1.1954707,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CFG
 CLX,Clorox,Household Products,86.4,17.962578,0.0579,4.81,79.12,128.9,10449058816,1140000000,1.5549195,116.12903,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CLX
-CME,CME Group,Financial Exchanges & Data,305.71,25.058197,0.017,12.2,218.31,329.16,109423968256,4942400000,15.725224,4.120803,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
+CME,CME Group,Financial Exchanges & Data,305.71,25.058197,0.017,12.2,218.31,329.16,109423968256,4940700160,15.730649,4.113982,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CME
 CMS,CMS Energy,Multi-Utilities,69.58,20.894896,0.0328,3.33,62.29,80.36,21818699776,3017999872,2.4757404,2.2848325,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMS
 KO,Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,92.71,27.840841,0.0229,3.33,67.27,95.37,398889320448,16997999616,7.957257,11.035591,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KO
 CTSH,Cognizant,IT Consulting & Other Services,70.54,15.169892,0.0187,4.65,37.08,87.03,31774334976,4036000000,1.4681792,2.2046506,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CTSH
 CL,Colgate-Palmolive,Household Products,94.04,37.023624,0.0225,2.54,74.55,99.33,74966130688,4983000064,3.561844,317.7027,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CL
 CMCSA,Comcast,Cable & Satellite,22.69,7.18038,0.0582,3.16,20.48,32.86,80572334080,33540999168,0.655033,0.87031573,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CMCSA
-CAG,Conagra Brands,Packaged Foods & Meats,14.86,,0.0471,-4.27,12.53,20.32,7094334976,1657900032,0.6308935,1.1076326,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAG
+CAG,Conagra Brands,Packaged Foods & Meats,14.86,,0.0471,-3.98,12.53,20.32,7094334976,1657900032,0.6308935,1.1076326,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CAG
 COP,ConocoPhillips,Oil & Gas Exploration & Production,150.8,19.97351,0.0223,7.55,85.57,152.77,181161689088,26780000256,2.810495,2.7722118,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=COP
 ED,Consolidated Edison,Multi-Utilities,115.74,19.067545,0.0307,6.07,94.96,116.5,42803965952,6161999872,2.419807,1.6650602,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ED
 STZ,Constellation Brands,Distillers & Vintners,138.68,12.415398,0.0297,11.17,110.6,168.6,23468013568,3425900032,2.5484612,2.7423913,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STZ
@@ -155,7 +155,7 @@ DLTR,Dollar Tree,Consumer Staples Merchandise Retail,125.31,15.263093,0.0,8.21,8
 D,Dominion Energy,Multi-Utilities,65.2,22.560553,0.041,2.89,55.85,72.99,57345089536,8341000192,3.1649146,2.0541902,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=D
 DPZ,Domino's,Restaurants,313.61,17.278788,0.0254,18.15,282.0,442.35,10316531712,1042630016,2.0362813,-2.6083086,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DPZ
 DOV,Dover Corporation,Industrial Machinery & Supplies & Components,199.2,23.243874,0.0105,8.57,176.4,237.54,26828300288,1959284992,3.128095,3.4697788,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOV
-DOW,Dow Inc.,Commodity Chemicals,32.61,,0.0429,-1.29,20.93,42.74,23605790720,4748000256,0.5539575,1.4614145,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOW
+DOW,Dow Inc.,Commodity Chemicals,32.61,,0.0429,-1.29,20.93,42.74,23605790720,4514999808,0.5539575,1.4614145,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DOW
 DTE,DTE Energy,Multi-Utilities,131.89,20.901743,0.0353,6.31,119.68,155.75,27444733952,3616999936,1.666853,2.2590094,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DTE
 DUK,Duke Energy,Electric Utilities,124.98,18.82229,0.0347,6.64,112.4,134.49,97447182336,16616999936,2.970679,1.812723,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DUK
 DD,DuPont,Specialty Chemicals,136.55,36.70699,0.0176,3.72,100.02,157.98,18440118272,1583000064,2.6388261,1.3392113,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DD
@@ -222,7 +222,7 @@ GPN,Global Payments,Transaction & Payment Processing Services,82.82,38.882626,0.
 GL,Globe Life,Life & Health Insurance,154.79,10.360776,0.0085,14.94,127.85,191.55,11895525376,1652123008,1.8957293,1.9375391,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GL
 GDDY,GoDaddy,Internet Services & Infrastructure,112.79,16.784227,0.0,6.72,71.59,137.927,14284594176,1379000064,2.798651,2128.1133,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GDDY
 GS,Goldman Sachs,Investment Banking & Brokerage,875.68,12.590653,0.0228,69.55,754.0,1153.99,254972968960,,3.5893486,2.3524227,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=GS
-HAL,Halliburton,Oil & Gas Equipment & Services,34.92,26.255636,0.0195,1.33,24.92,43.59,28883249152,4139000064,1.2850708,2.6100605,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAL
+HAL,Halliburton,Oil & Gas Equipment & Services,34.92,26.255636,0.0195,1.33,24.92,43.59,28883249152,4139000064,1.2850708,2.597441,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAL
 HIG,Hartford (The),Property & Casualty Insurance,136.76,9.678698,0.0175,14.13,120.33,146.07,37044453376,5585999872,1.2636689,1.9248145,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HIG
 HAS,Hasbro,Leisure Products,117.44,21.008944,0.0238,5.59,74.78,117.77,16564261888,1466800000,3.1971166,17.625694,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HAS
 HCA,HCA Healthcare,Health Care Facilities,469.03,15.723433,0.0067,29.83,353.99,556.52,101545697280,15747000320,1.301651,-15.391659,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HCA
@@ -234,7 +234,7 @@ HPE,Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",56.6
 HLT,Hilton Worldwide,"Hotels, Resorts & Cruise Lines",349.63,51.265396,0.0017,6.82,253.54,364.5,78689443840,3088000000,15.417211,-12.519425,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HLT
 HOLX,Hologic,Health Care Equipment,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HOLX
 HD,Home Depot (The),Home Improvement Retail,319.83,21.450703,0.0291,14.91,277.15,397.63,319091048448,24647999488,1.8861483,19.20901,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HD
-HON,Honeywell,Industrial Conglomerates,221.15,10.964303,0.0127,20.17,195.86786,260.28317,70091276288,8908000256,1.8570669,3.099466,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
+HON,Honeywell,Industrial Conglomerates,221.15,10.964303,0.0127,20.17,195.86786,260.28317,70091276288,9018000384,1.8570669,3.1308396,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HON
 HRL,Hormel Foods,Packaged Foods & Meats,21.06,33.96774,0.0556,0.62,18.96,26.6,11590387712,1264931968,0.95418394,1.4776874,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HRL
 HST,Host Hotels & Resorts,Hotel & Resort REITs,24.72,16.702702,0.0324,1.48,15.61,25.71,17173638144,1695000064,2.7548347,2.6506538,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HST
 HWM,Howmet Aerospace,Aerospace & Defense,185.91,40.06681,0.003,4.64,183.52,310.0,74141171712,2793999872,8.13219,12.973482,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=HWM
@@ -261,9 +261,9 @@ IVZ,Invesco,Asset Management & Custody Banks,28.06,,0.0306,-0.68,21.82,33.66,123
 INVH,Invitation Homes,Single-Family Residential REITs,27.54,24.589287,0.0436,1.12,24.25,30.893,16265763840,1500342016,5.711285,1.7963604,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=INVH
 IQV,IQVIA,Life Sciences Tools & Services,279.36,34.703102,0.0,8.05,154.5,282.98,45982654464,3048000000,2.7075696,7.451388,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IQV
 IRM,Iron Mountain,Other Specialized REITs,109.96,78.542854,0.0314,1.4,77.77,134.68,32735401984,2551013120,4.328665,-25.554264,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=IRM
-JBHT,J.B. Hunt,Cargo Ground Transportation,226.03,31.880112,0.008,7.09,157.82,299.76,21227593728,1681084032,1.5930389,5.7986145,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
+JBHT,J.B. Hunt,Cargo Ground Transportation,226.03,31.880112,0.008,7.09,157.82,299.76,21227593728,1682820992,1.5930389,5.7986145,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBHT
 SJM,J.M. Smucker Company (The),Packaged Foods & Meats,129.98,60.73831,0.0345,2.14,88.25,135.89,13884876800,2263899904,1.5163294,2.4144592,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SJM
-JBL,Jabil,Electronic Manufacturing Services,273.97,28.099487,0.0012,9.75,189.6,428.93,28708517888,2516999936,0.79847914,17.800663,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBL
+JBL,Jabil,Electronic Manufacturing Services,273.97,28.099487,0.0012,9.75,189.6,428.93,28211916800,2512999936,0.784667,17.74532,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JBL
 JKHY,Jack Henry & Associates,Transaction & Payment Processing Services,162.55,22.085598,0.015,7.36,121.04,193.39,11396706304,702214016,4.4792404,5.5508127,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JKHY
 J,Jacobs Solutions,Construction & Engineering,145.06,48.19269,0.0099,3.01,105.68,161.75,16977619968,1056488000,1.1939913,5.2048798,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=J
 JNJ,Johnson & Johnson,Pharmaceuticals,263.81,40.031864,0.0203,6.59,184.66,281.07,635072544768,34502000640,6.393241,7.788899,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=JNJ
@@ -277,7 +277,7 @@ KEY,KeyCorp,Regional Banks,21.08,12.255814,0.0389,1.72,16.91,24.07,22495070208,,
 KEYS,Keysight Technologies,Electronic Equipment & Instruments,314.77,42.594044,0.0,7.39,165.06,389.93,53587939328,1698000000,8.141589,8.157833,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KEYS
 KMB,Kimberly-Clark,Household Products,110.15,21.725838,0.0465,5.07,92.42,123.09,36633583616,3480999936,2.209238,20.933105,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMB
 KIM,Kimco Realty,Retail REITs,23.62,27.788235,0.0474,0.85,19.76,26.65,15844045824,1332118016,7.2442045,1.5421782,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KIM
-KMI,Kinder Morgan,Oil & Gas Storage & Transportation,34.43,21.253086,0.0346,1.62,25.6,34.81,76668796928,7729999872,4.179503,2.4268696,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMI
+KMI,Kinder Morgan,Oil & Gas Storage & Transportation,34.43,21.253086,0.0346,1.62,25.6,34.81,76700237824,7680000000,4.1812167,2.4275541,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KMI
 KKR,KKR,Asset Management & Custody Banks,91.34,29.182106,0.0085,3.13,82.67,144.84,84360757248,,3.265605,2.8768504,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KKR
 KLAC,KLA Corporation,Semiconductor Materials & Equipment,145.61,39.784153,0.0063,3.66,107.196,307.37,190021992448,6054757888,13.993323,29.973242,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KLAC
 KHC,Kraft Heinz,Packaged Foods & Meats,24.8,,0.0645,-2.87,21.035,28.09,29408428032,5493000192,1.1810614,0.8168912,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=KHC
@@ -286,7 +286,7 @@ LHX,L3Harris,Aerospace & Defense,253.97,25.601814,0.0197,9.92,232.34,379.23,4729
 LH,LabCorp,Health Care Services,328.95,27.208437,0.0088,12.09,244.52,341.8,26677846016,2319800064,1.8593425,3.0919843,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LH
 LRCX,Lam Research,Semiconductor Materials & Equipment,230.1,34.292103,0.0057,6.71,135.5,438.5,287952764928,10116395008,11.020877,20.666428,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LRCX
 LW,Lamb Weston,Packaged Foods & Meats,53.83,29.4153,0.0282,1.83,37.62,67.07,7416721920,1069100032,1.1197926,4.1044607,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LW
-LVS,Las Vegas Sands,Casinos & Gaming,35.68,14.622951,0.0336,2.44,35.03,70.45,23109978112,4448999936,1.6987635,39.777035,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LVS
+LVS,Las Vegas Sands,Casinos & Gaming,35.68,14.622951,0.0336,2.44,35.03,70.45,23109978112,4446000128,1.6987635,-64.99089,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LVS
 LDOS,Leidos,Diversified Support Services,136.08,12.705882,0.0126,10.71,98.86,205.77,17076979712,2382000128,0.9684121,3.2318435,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LDOS
 LEN,Lennar,Homebuilding,84.92,16.083332,0.0236,5.28,71.78,133.76,20202487808,1982134016,0.63185936,0.93707925,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LEN
 LLY,Lilly (Eli),Pharmaceuticals,1273.46,42.7479,0.0054,29.79,809.63,1321.21,1135596929024,41706999808,14.254474,33.51034,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=LLY
@@ -301,7 +301,7 @@ LYB,LyondellBasell,Specialty Chemicals,66.45,,0.0415,-0.83,41.58,83.94,214658703
 MTB,M&T Bank,Regional Banks,221.66,11.715645,0.0271,18.92,179.32,255.95,32011307008,,3.3824286,1.2669761,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MTB
 MRO,Marathon Oil,Oil & Gas Exploration & Production,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MRO
 MPC,Marathon Petroleum,Oil & Gas Refining & Marketing,457.22,15.8317175,0.0087,28.88,161.93,493.98,128398704640,15397000192,0.8329681,6.782673,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MPC
-MKTX,MarketAxess,Financial Exchanges & Data,164.67,20.204908,0.0189,8.15,108.75,195.97,5795922432,423792992,6.6496663,4.548393,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKTX
+MKTX,MarketAxess,Financial Exchanges & Data,164.67,20.204908,0.0189,8.15,108.75,195.97,5795922432,436584000,6.6496663,4.548393,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MKTX
 MAR,Marriott International,"Hotels, Resorts & Cruise Lines",390.71,40.44617,0.0075,9.66,256.76,410.98,101883994112,4814000128,13.796072,-22.605299,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MAR
 MMC,Marsh McLennan,Insurance Brokers,,,,,,,,,,,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MMC
 MLM,Martin Marietta Materials,Construction Materials,507.17,32.975945,0.0066,15.38,464.92,710.97,36018900992,2126000000,5.385601,2.637801,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MLM
@@ -333,7 +333,7 @@ MS,Morgan Stanley,Investment Banking & Brokerage,179.49,14.233942,0.0256,12.61,1
 MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals,17.84,,0.0493,-2.01,16.99,32.25,5671258624,1718700032,0.46303925,0.49470356,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MOS
 MSI,Motorola Solutions,Communications Equipment,481.83,37.93937,0.01,12.7,359.36,494.85,79739871232,3758000128,6.5162926,29.843912,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSI
 MSCI,MSCI,Financial Exchanges & Data,615.62,31.73299,0.0133,19.4,501.08,644.77,44755574784,2018498944,13.039305,-14.715078,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=MSCI
-NDAQ,"Nasdaq, Inc.",Financial Exchanges & Data,102.56,28.021856,0.0113,3.66,76.55,104.21,57328713728,3488999936,9.918463,4.7771206,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
+NDAQ,"Nasdaq, Inc.",Financial Exchanges & Data,102.56,28.021856,0.0113,3.66,76.55,104.21,57328713728,3487000064,9.918463,4.7731185,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDAQ
 NTAP,NetApp,"Technology Hardware, Storage & Peripherals",215.48,30.3921,0.0097,7.09,93.69,240.87,42324365312,2095000064,5.7264733,28.248558,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTAP
 NFLX,Netflix,Movies & Entertainment,65.85,19.031792,0.0,3.46,64.1,116.733,274195415040,15957057536,5.513169,9.233034,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NFLX
 NEM,Newmont,Gold,108.87,12.6299305,0.0096,8.62,76.05,135.29,113136967680,17613000704,4.2523103,3.1829612,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NEM
@@ -343,7 +343,7 @@ NEE,NextEra Energy,Multi-Utilities,82.1,14.792792,0.0304,5.55,74.41,98.75,172188
 NKE,"Nike, Inc.","Apparel, Accessories & Luxury Goods",37.3,17.932693,0.044,2.08,31.97,70.44,55402016768,4893000192,1.2072524,3.634415,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NKE
 NI,NiSource,Multi-Utilities,43.28,23.021276,0.0277,1.88,38.42,49.21,20755359744,3025999872,3.0161097,2.1674678,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NI
 NDSN,Nordson Corporation,Industrial Machinery & Supplies & Components,318.84,32.271255,0.0118,9.88,223.29,339.12,17759186944,957891008,5.959869,5.4325194,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NDSN
-NSC,Norfolk Southern Railway,Rail Transportation,329.99,27.660519,0.0164,11.93,277.8,358.6,74121256960,5772000256,5.717909,4.430466,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NSC
+NSC,Norfolk Southern Railway,Rail Transportation,329.99,27.660519,0.0164,11.93,277.8,358.6,74121256960,5792000000,5.717909,4.430466,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NSC
 NTRS,Northern Trust,Asset Management & Custody Banks,167.92,13.170196,0.021,12.75,121.53,195.78,30721912832,,3.2920332,2.4373677,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NTRS
 NOC,Northrop Grumman,Aerospace & Defense,551.44,17.406565,0.0179,31.68,470.06,774.0,78340046848,7312999936,1.797161,4.1931095,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOC
 NCLH,Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines",15.1,9.320988,0.0,1.62,13.63,25.13,6933736448,2594191872,0.682837,2.694985,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NCLH
@@ -355,7 +355,7 @@ NXPI,NXP Semiconductors,Semiconductors,234.92,20.061485,0.0173,11.71,183.0,339.9
 ORLY,O'Reilly Auto Parts,Automotive Retail,89.92,28.54603,0.0,3.15,82.59,102.46,72741748736,4169743872,3.9166243,-39.982212,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORLY
 OXY,Occidental Petroleum,Oil & Gas Exploration & Production,64.17,18.230114,0.0175,3.52,38.8,67.45,64146726912,13717999616,2.681047,1.9172964,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OXY
 ODFL,Old Dominion,Cargo Ground Transportation,182.7,35.134617,0.0063,5.2,126.01,252.03,37995806720,1793243008,6.7819295,8.335615,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ODFL
-OMC,Omnicom Group,Advertising,82.68,83.51515,0.0387,0.99,66.33,89.57,22682923008,4158400000,0.9162226,2.3476632,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OMC
+OMC,Omnicom Group,Advertising,82.68,83.51515,0.0387,0.99,66.33,89.57,22682923008,4159600128,0.9162226,2.2670689,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OMC
 ON,ON Semiconductor,Semiconductors,72.25,46.612904,0.0,1.55,44.56,134.92,28128270336,2089900032,4.5384283,3.8963492,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ON
 OKE,ONEOK,Oil & Gas Storage & Transportation,95.83,16.550951,0.0447,5.79,64.02,99.85,60412116992,7670000128,1.5346267,2.633633,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=OKE
 ORCL,Oracle Corporation,Application Software,126.16,19.774296,0.0159,6.38,114.5,287.0,382454169600,34432999424,5.3284407,6.171608,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ORCL
@@ -364,7 +364,7 @@ PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment,106.96,22.51
 PKG,Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,247.29,30.491985,0.0243,8.11,191.5,259.98,22033117184,1980499968,2.2430358,4.69758,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PKG
 PLTR,Palantir Technologies,Internet Services & Infrastructure,196.75,174.11505,0.0,1.13,106.37,212.94,472801738752,2662629888,76.80414,48.36529,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PLTR
 PANW,Palo Alto Networks,Systems Software,380.55,951.37494,0.0,0.4,139.57,432.33,311289905152,1560000000,27.115845,11.281237,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PANW
-PARA,Paramount Global,Movies & Entertainment,0.4251,,0.0,-8.38,0.421,46.6,2215208,-17672508,0.20850156,0.09353135,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PARA
+PARA,Paramount Global,Movies & Entertainment,0.4251,,0.0,-8.38,0.4212,46.6,2215208,-17672508,0.20850156,0.09353135,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PARA
 PH,Parker Hannifin,Industrial Machinery & Supplies & Components,880.57,30.918892,0.0091,28.48,755.1,1099.94,111050809344,5664000000,5.165394,7.2085104,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PH
 PAYX,Paychex,Human Resource & Employment Services,118.04,23.420635,0.0403,5.04,85.45,127.98,42019934208,3078000128,6.364246,11.340186,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PAYX
 PAYC,Paycom,Human Resource & Employment Services,274.59,29.057142,0.0055,9.45,104.9,275.22,12376215552,735100032,5.7813873,20.900442,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PAYC
@@ -388,11 +388,11 @@ PRU,Prudential Financial,Life & Health Insurance,114.99,10.415761,0.0487,11.04,9
 PTC,PTC Inc.,Application Software,193.8,18.797283,0.0,10.31,108.5,206.67,21052925952,1275965952,7.126989,6.183988,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PTC
 PEG,Public Service Enterprise Group,Electric Utilities,72.02,17.915422,0.0372,4.02,66.15,87.63,35896209408,4463000064,2.8618522,2.0697186,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PEG
 PSA,Public Storage,Self-Storage REITs,309.89,29.597898,0.0387,10.47,256.54,335.55,57903656960,3436555008,11.791939,11.243787,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PSA
-PHM,PulteGroup,Homebuilding,121.19,12.94765,0.0086,9.36,107.16,144.5,23085041664,2609699072,1.4449714,1.7270914,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PHM
+PHM,PulteGroup,Homebuilding,121.19,12.94765,0.0086,9.36,107.16,144.5,23085041664,2608161024,1.4449714,1.7108774,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PHM
 QRVO,Qorvo,Semiconductors,114.17,26.48956,0.0,4.31,74.92,121.09,10072263680,885481024,2.763663,2.9009554,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QRVO
 QCOM,Qualcomm,Semiconductors,175.91,20.359953,0.0209,8.64,121.99,259.92,187843641344,11998999552,4.2624893,6.7225895,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=QCOM
 PWR,Quanta Services,Construction & Engineering,546.43,62.592213,0.0008,8.73,408.36,788.75,82152136704,3045004032,2.4966354,8.519864,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=PWR
-DGX,Quest Diagnostics,Health Care Services,241.89,24.09263,0.0142,10.04,171.18,248.84,26698211328,2332000000,2.254726,3.4863508,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DGX
+DGX,Quest Diagnostics,Health Care Services,241.89,24.09263,0.0142,10.04,171.18,248.84,26698211328,2352000000,2.254726,3.4863508,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=DGX
 RL,Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",377.4,23.780718,0.0106,15.87,306.55,421.6,22486337536,1593200000,2.6912985,8.264716,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RL
 RJF,Raymond James Financial,Investment Banking & Brokerage,157.7,13.74891,0.0137,11.47,138.82,182.73,30294169600,,1.9878064,2.3858514,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=RJF
 O,Realty Income,Retail REITs,56.89,41.224636,0.0573,1.38,53.15,67.94,53830344704,5357639168,8.874827,1.3610699,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=O
@@ -411,7 +411,7 @@ RTX,RTX Corporation,Aerospace & Defense,191.01,31.058535,0.0153,6.15,166.74,226.
 SPGI,S&P Global,Financial Exchanges & Data,450.31,27.40779,0.0086,16.43,361.03122,522.46924,132751384576,8143000064,8.234176,4.2142153,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SPGI
 CRM,Salesforce,Application Software,248.57,22.741995,0.0071,10.93,146.32,269.11,204573114368,12899000320,4.6559496,5.33046,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=CRM
 SBAC,SBA Communications,Telecom Tower REITs,184.75,19.92988,0.0271,9.27,156.6,224.46,19599777792,1833553024,6.827711,-4.2333074,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SBAC
-SLB,Schlumberger,Oil & Gas Equipment & Services,53.06,25.632853,0.0222,2.07,34.65,60.46,78316560384,7272999936,2.135945,2.887619,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
+SLB,Schlumberger,Oil & Gas Equipment & Services,53.06,25.632853,0.0222,2.07,34.65,60.46,78316560384,7240999936,2.123148,2.8779085,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SLB
 STX,Seagate Technology,"Technology Hardware, Storage & Peripherals",630.49,45.358994,0.0047,13.9,217.67,1145.0,143369011200,4502000128,11.756376,65.985344,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STX
 SRE,Sempra,Multi-Utilities,84.06,24.294796,0.0313,3.46,76.21,101.04,54966861824,5873999872,4.0559964,1.6813345,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SRE
 NOW,ServiceNow,Systems Software,158.96,99.350006,0.0,1.6,81.24,192.966,164342710272,2896999936,11.155492,13.13068,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=NOW
@@ -426,7 +426,7 @@ LUV,Southwest Airlines,Passenger Airlines,41.75,20.365854,0.0172,2.05,29.26,55.1
 SWK,Stanley Black & Decker,Industrial Machinery & Supplies & Components,99.24,24.264057,0.0339,4.09,61.9,104.68,14986891264,1791000064,0.9828952,1.6728191,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SWK
 SBUX,Starbucks,Restaurants,100.8,58.265896,0.025,1.73,77.99,110.51,114912002048,5642299904,2.997316,-14.971039,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SBUX
 STT,State Street Corporation,Asset Management & Custody Banks,167.83,13.711601,0.0219,12.24,111.63,195.93,45788766208,,2.9550672,1.857184,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STT
-STLD,Steel Dynamics,Steel,241.53,17.838257,0.0088,13.54,150.03,288.74,34618036224,3209409024,1.5579756,3.5089273,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STLD
+STLD,Steel Dynamics,Steel,241.53,17.838257,0.0088,13.54,150.03,288.74,34349789184,3209409024,1.5459033,3.4957736,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STLD
 STE,Steris,Health Care Equipment,232.15,28.380194,0.0111,8.18,195.14,269.44,22634649600,1640499968,3.7490103,3.1407697,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=STE
 SYK,Stryker Corporation,Health Care Equipment,307.15,31.829016,0.0115,9.65,267.0,389.33,117814460416,7376000000,4.559912,4.9114137,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SYK
 SMCI,Supermicro,"Technology Hardware, Storage & Peripherals",32.94,10.104294,0.0,3.26,19.48,54.08,21640437760,2824158976,0.5539871,2.1103208,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=SMCI
@@ -440,11 +440,11 @@ TPR,"Tapestry, Inc.","Apparel, Accessories & Luxury Goods",110.37,15.181568,0.01
 TRGP,Targa Resources,Oil & Gas Storage & Transportation,302.37,28.907265,0.0165,10.46,150.0,307.94,64837509120,5497699840,3.8728614,17.731192,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TRGP
 TGT,Target Corporation,Consumer Staples Merchandise Retail,152.76,15.862927,0.0304,9.63,83.44,170.75,69398364160,8593000448,0.6443374,3.889299,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TGT
 TEL,TE Connectivity,Electronic Manufacturing Services,208.05,20.37708,0.015,10.21,190.27,252.56,60233224192,4951000064,3.1173391,4.554011,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TEL
-TDY,Teledyne Technologies,Electronic Equipment & Instruments,625.41,28.635988,0.0,21.84,483.02,697.67,28991299584,1653699968,4.446655,2.6340926,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TDY
+TDY,Teledyne Technologies,Electronic Equipment & Instruments,625.41,28.635988,0.0,21.84,483.02,697.67,28991299584,1656899968,4.446655,2.5957515,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TDY
 TFX,Teleflex,Health Care Equipment,136.29,,0.01,-8.48,100.18,145.0,5774933504,403903008,2.561487,1.9882418,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TFX
 TER,Teradyne,Semiconductor Materials & Equipment,308.85,42.42445,0.0017,7.28,144.11,487.91,48285843456,1504893952,10.816646,14.051411,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TER
 TSLA,"Tesla, Inc.",Automobile Manufacturers,372.22,409.03296,0.0,0.91,297.38,498.83,1471285166080,9838000128,14.2057085,16.478662,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSLA
-TXN,Texas Instruments,Semiconductors,284.69,36.924774,0.0214,7.71,152.73,334.03,259992485888,10716999680,12.520104,13.563126,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN
+TXN,Texas Instruments,Semiconductors,284.69,36.924774,0.0214,7.71,152.73,334.03,259992485888,10712999936,12.520104,13.563126,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXN
 TXT,Textron,Aerospace & Defense,76.83,14.468927,0.001,5.31,71.87,101.57,13213754368,1680000000,0.8637005,1.6401597,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TXT
 TMO,Thermo Fisher Scientific,Life Sciences Tools & Services,673.82,35.539032,0.0028,18.96,435.27,705.79,249143132160,12197000192,5.2616234,4.5522537,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TMO
 TJX,TJX Companies,Apparel Retail,145.06,26.862963,0.0132,5.4,122.78,170.0,159562235904,8903000064,2.5586042,14.997932,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TJX
@@ -460,7 +460,7 @@ USB,U.S. Bancorp,Diversified Banks,59.58,11.59144,0.0363,5.14,45.02,66.08,928287
 UBER,Uber,Passenger Ground Transportation,66.7,14.6271925,0.0,4.56,65.41,100.35,136238751744,7473999872,2.4668868,4.981329,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UBER
 UDR,"UDR, Inc.",Multi-Family Residential REITs,35.84,22.683544,0.0485,1.58,32.94,42.0,13166333952,1040777024,7.4540625,3.9764786,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UDR
 ULTA,Ulta Beauty,Other Specialty Retail,624.46,22.75729,0.0,27.44,443.6,714.97,26700331008,1934352000,2.0609236,10.110748,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=ULTA
-UNP,Union Pacific Corporation,Rail Transportation,292.87,22.844774,0.0194,12.82,215.53,315.99,173986889728,13230000128,6.599662,7.8970504,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNP
+UNP,Union Pacific Corporation,Rail Transportation,292.87,22.844774,0.0194,12.82,215.53,315.99,173986889728,13281000448,6.599662,7.904083,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UNP
 UAL,United Airlines Holdings,Passenger Airlines,97.93,8.967949,0.0,10.92,84.64,138.77,31816904704,7041999872,0.48536155,1.7920799,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UAL
 UPS,United Parcel Service,Air Freight & Logistics,101.06,18.784386,0.0649,5.38,88.22,122.41,85979979776,12083999744,0.95607674,5.707992,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=UPS
 URI,United Rentals,Trading Companies & Distributors,1098.88,25.419386,0.0072,43.23,701.59,1179.18,68397027328,5040999936,3.909295,7.7313504,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=URI
@@ -469,7 +469,7 @@ UHS,Universal Health Services,Health Care Facilities,186.89,7.4074516,0.0043,25.
 VLO,Valero Energy,Oil & Gas Refining & Marketing,419.28,9.535592,0.0114,43.97,159.9,461.52,120722227200,20815998976,0.8235984,4.828746,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLO
 VTR,Ventas,Health Care REITs,86.8,160.74074,0.024,0.54,68.15,101.6,44523745280,2380859904,6.936256,3.0393221,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VTR
 VLTO,Veralto,Environmental & Facilities Services,104.33,25.384428,0.005,4.11,80.03,105.61,25434959872,1390000000,4.4654074,8.226621,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VLTO
-VRSN,Verisign,Internet Services & Infrastructure,300.32,32.893757,0.0108,9.13,208.86,312.48,26938703872,1197699968,15.55532,-12.044115,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRSN
+VRSN,Verisign,Internet Services & Infrastructure,300.32,32.893757,0.0108,9.13,208.86,312.48,26938703872,1205200000,15.55532,-12.044115,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRSN
 VRSK,Verisk Analytics,Research & Consulting Services,195.88,30.089094,0.0102,6.51,155.94,235.89,25494960128,1515800064,8.12977,-21.438108,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRSK
 VZ,Verizon,Integrated Telecommunication Services,44.66,11.630209,0.0634,3.84,38.68,51.68,185552257024,51081998336,1.3359175,1.785543,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VZ
 VRTX,Vertex Pharmaceuticals,Biotechnology,523.93,29.904678,0.0,17.52,403.16,560.25,132795785216,5100499968,10.550065,6.5555987,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=VRTX
@@ -490,8 +490,8 @@ WAT,Waters Corporation,Life Sciences Tools & Services,453.67,114.853165,0.0,3.95
 WEC,WEC Energy Group,Electric Utilities,111.09,21.570873,0.0343,5.15,99.8,119.91,36198604800,3965199872,3.5707977,2.5609164,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WEC
 WFC,Wells Fargo,Diversified Banks,82.39,11.620592,0.0243,7.09,72.78,97.76,247305027584,,2.9755633,1.5587044,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WFC
 WELL,Welltower,Health Care REITs,237.32,106.421524,0.0143,2.23,174.91,255.2,171006164992,3340614912,13.398361,3.6757894,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WELL
-WST,West Pharmaceutical Services,Health Care Supplies,392.15,50.147057,0.0027,7.82,223.83,397.16,27597854720,912200000,8.295616,9.232707,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WST
-WDC,Western Digital,"Technology Hardware, Storage & Peripherals",343.67,12.088287,0.002,28.43,121.85,799.87,128643678208,6312000000,8.883005,13.455621,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
+WST,West Pharmaceutical Services,Health Care Supplies,392.15,50.211266,0.0027,7.81,223.83,397.16,27597854720,912200000,8.295616,9.232707,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WST
+WDC,Western Digital,"Technology Hardware, Storage & Peripherals",343.67,12.088287,0.002,28.43,121.85,799.87,128643678208,6312000000,8.883005,13.74955,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WDC
 WY,Weyerhaeuser,Timber REITs,19.49,29.984615,0.0431,0.65,18.26,27.75,14047144960,688000000,2.0500796,1.485405,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WY
 WMB,Williams Companies,Oil & Gas Storage & Transportation,71.7,28.565737,0.0293,2.51,56.19,80.08,87701102592,7032999936,7.116863,6.6660466,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WMB
 WTW,Willis Towers Watson,Insurance Brokers,325.01,20.112005,0.0118,16.16,240.61,351.51,30184308736,2816000000,2.987954,3.931747,http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=WTW
