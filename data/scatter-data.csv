@@ -1,445 +1,444 @@
 company,sector,market_cap_b,pe_ratio
-3M,Industrial Conglomerates,91.47,26.47
-A. O. Smith,Building Products,8.63,17.69
-Abbott Laboratories,Health Care Equipment,180.95,38.16
-AbbVie,Biotechnology,513.86,82.14
-Accenture,IT Consulting & Other Services,151.28,18.23
-Adobe Inc.,Application Software,96.57,13.85
-AES Corporation,Independent Power Producers & Energy Traders,10.74,5.64
-Aflac,Life & Health Insurance,61.94,13.28
-Agilent Technologies,Life Sciences Tools & Services,51.08,35.8
-Airbnb,"Hotels, Resorts & Cruise Lines",99.67,37.92
-Akamai Technologies,Internet Services & Infrastructure,14.28,36.01
-Align Technology,Health Care Supplies,10.92,22.41
-Allegion,Building Products,15.91,23.27
-Alliant Energy,Electric Utilities,18.33,22.37
-Allstate,Property & Casualty Insurance,64.71,5.12
-Alphabet Inc. (Class A),Interactive Media & Services,3471.1,14.82
-Alphabet Inc. (Class C),Interactive Media & Services,3452.76,14.74
-Altria,Tobacco,128.15,15.38
-Amazon,Broadline Retail,2629.6,19.61
-Amcor,Paper & Plastic Packaging Products & Materials,21.77,19.16
-Amentum,Diversified Support Services,5.4,26.59
-Ameren,Multi-Utilities,30.51,19.4
-American Electric Power,Electric Utilities,70.43,21.13
-American Express,Consumer Finance,217.06,18.24
-American International Group,Multi-line Insurance,42.58,14.92
-American Tower,Telecom Tower REITs,86.2,26.18
-American Water Works,Water Utilities,28.26,24.65
-Ameriprise Financial,Asset Management & Custody Banks,43.98,12.02
-Ametek,Electrical Components & Equipment,57.72,36.81
-Amgen,Biotechnology,249.09,28.62
-Amphenol,Electronic Components,202.41,35.53
-Analog Devices,Semiconductors,209.95,51.46
-Aon,Insurance Brokers,68.25,17.6
-APA Corporation,Oil & Gas Exploration & Production,18.05,10.89
-Apple Inc.,"Technology Hardware, Storage & Peripherals",5092.06,40.01
-Applied Materials,Semiconductor Materials & Equipment,334.63,36.38
-Aptiv,Automotive Parts & Equipment,9.23,43.99
-Arch Capital Group,Property & Casualty Insurance,33.93,8.5
-Archer Daniels Midland,Agricultural Products & Services,36.73,20.88
-Arista Networks,Communications Equipment,232.34,58.11
-Arthur J. Gallagher & Co.,Insurance Brokers,68.75,44.48
-Assurant,Multi-line Insurance,14.44,14.01
-AT&T,Integrated Telecommunication Services,140.93,11.19
-Atmos Energy,Gas Utilities,28.91,20.39
-Autodesk,Application Software,50.52,31.35
-Automatic Data Processing,Human Resource & Employment Services,113.17,25.36
-AutoZone,Automotive Retail,50.49,20.56
+3M,Industrial Conglomerates,89.91,26.02
+A. O. Smith,Building Products,8.47,17.57
+Abbott Laboratories,Health Care Equipment,183.77,39.48
+AbbVie,Biotechnology,521.11,83.3
+Accenture,IT Consulting & Other Services,158.03,19.04
+Adobe Inc.,Application Software,97.39,13.97
+AES Corporation,Independent Power Producers & Energy Traders,10.58,5.55
+Aflac,Life & Health Insurance,62.11,13.32
+Agilent Technologies,Life Sciences Tools & Services,49.31,34.49
+Airbnb,"Hotels, Resorts & Cruise Lines",98.43,37.45
+Akamai Technologies,Internet Services & Infrastructure,13.33,33.59
+Align Technology,Health Care Supplies,10.65,21.85
+Allegion,Building Products,15.85,23.19
+Alliant Energy,Electric Utilities,18.58,22.67
+Allstate,Property & Casualty Insurance,65.71,5.2
+Alphabet Inc. (Class A),Interactive Media & Services,3440.35,14.61
+Alphabet Inc. (Class C),Interactive Media & Services,3420.44,14.53
+Altria,Tobacco,129.8,16.43
+Amazon,Broadline Retail,2598.42,19.34
+Amcor,Paper & Plastic Packaging Products & Materials,21.89,19.91
+Amentum,Diversified Support Services,5.35,26.35
+Ameren,Multi-Utilities,30.6,19.46
+American Electric Power,Electric Utilities,70.9,21.28
+American Express,Consumer Finance,213.98,17.98
+American International Group,Multi-line Insurance,42.82,15.0
+American Tower,Telecom Tower REITs,87.09,26.45
+American Water Works,Water Utilities,28.74,24.98
+Ameriprise Financial,Asset Management & Custody Banks,42.7,11.85
+Ametek,Electrical Components & Equipment,55.28,35.25
+Amgen,Biotechnology,251.94,28.94
+Amphenol,Electronic Components,195.55,34.48
+Analog Devices,Semiconductors,202.12,49.54
+Aon,Insurance Brokers,68.24,17.61
+APA Corporation,Oil & Gas Exploration & Production,18.51,11.17
+Apple Inc.,"Technology Hardware, Storage & Peripherals",5029.59,39.52
+Applied Materials,Semiconductor Materials & Equipment,309.57,33.66
+Aptiv,Automotive Parts & Equipment,9.12,43.5
+Arch Capital Group,Property & Casualty Insurance,34.72,8.7
+Archer Daniels Midland,Agricultural Products & Services,37.07,21.07
+Arista Networks,Communications Equipment,212.97,53.27
+Arthur J. Gallagher & Co.,Insurance Brokers,70.77,45.78
+Assurant,Multi-line Insurance,14.44,14.02
+AT&T,Integrated Telecommunication Services,144.23,11.45
+Atmos Energy,Gas Utilities,29.14,20.55
+Autodesk,Application Software,52.17,32.37
+Automatic Data Processing,Human Resource & Employment Services,116.24,26.05
+AutoZone,Automotive Retail,51.02,20.78
 AvalonBay Communities,Multi-Family Residential REITs,26.28,25.25
-Avery Dennison,Paper & Plastic Packaging Products & Materials,13.8,19.94
-Baker Hughes,Oil & Gas Equipment & Services,54.11,18.73
-Ball Corporation,"Metal, Glass & Plastic Containers",17.07,18.38
-Bank of America,Diversified Banks,354.03,12.21
-Becton Dickinson,Health Care Equipment,54.03,46.13
-Best Buy,Computer & Electronics Retail,21.05,16.7
-Bio-Techne,Life Sciences Tools & Services,11.4,62.68
-BlackRock,Asset Management & Custody Banks,191.11,26.78
-Blackstone Inc.,Asset Management & Custody Banks,144.15,26.86
-Boeing,Aerospace & Defense,136.82,17.25
-Booking Holdings,"Hotels, Resorts & Cruise Lines",113.03,16.68
-BorgWarner,Automotive Parts & Equipment,10.86,26.65
-Boston Scientific,Health Care Equipment,61.87,18.01
-Bristol Myers Squibb,Pharmaceuticals,125.4,13.52
-Broadcom,Semiconductors,1646.9,44.06
-Broadridge Financial Solutions,Data Processing & Outsourced Services,20.11,18.56
-Brown & Brown,Insurance Brokers,22.5,21.47
-Builders FirstSource,Building Products,6.79,68.54
-Bunge Global,Agricultural Products & Services,18.45,19.13
-"BXP, Inc.",Office REITs,11.4,18.43
-C.H. Robinson,Air Freight & Logistics,14.71,22.88
-Cadence Design Systems,Application Software,94.04,68.14
-Camden Property Trust,Multi-Family Residential REITs,11.68,33.31
-Campbell Soup Company,Packaged Foods & Meats,6.26,16.03
-Capital One,Consumer Finance,128.06,12.79
-Cardinal Health,Health Care Distributors,58.14,34.73
-CarMax,Automotive Retail,7.97,26.62
-Carnival,"Hotels, Resorts & Cruise Lines",38.78,12.7
-Carrier Global,Building Products,45.78,40.84
-Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,297.59,27.87
-Cboe Global Markets,Financial Exchanges & Data,32.82,24.49
-CBRE Group,Real Estate Services,37.06,27.53
-CDW,Technology Distributors,20.65,19.86
-Cencora,Health Care Distributors,63.07,24.54
-Centene Corporation,Managed Health Care,33.97,23.58
-CenterPoint Energy,Multi-Utilities,27.98,24.26
-CF Industries,Fertilizers & Agricultural Chemicals,17.87,8.76
-Charles Schwab Corporation,Investment Banking & Brokerage,154.72,15.29
-Charter Communications,Cable & Satellite,14.17,2.84
-Chevron Corporation,Integrated Oil & Gas,454.03,22.28
-Chipotle Mexican Grill,Restaurants,39.58,28.7
-Chubb Limited,Property & Casualty Insurance,138.42,12.7
-Church & Dwight,Household Products,25.14,33.97
-Cigna,Health Care Services,78.85,12.34
-Cincinnati Financial,Property & Casualty Insurance,27.92,10.67
-Cintas,Diversified Support Services,86.59,43.01
-Cisco,Communications Equipment,428.13,32.61
-Citigroup,Diversified Banks,208.16,12.26
-Citizens Financial Group,Regional Banks,27.7,13.28
-Clorox,Household Products,10.72,18.43
-CME Group,Financial Exchanges & Data,106.1,24.3
-CMS Energy,Multi-Utilities,21.8,24.83
-Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,399.3,27.38
-Cognizant,IT Consulting & Other Services,28.16,13.45
-Colgate-Palmolive,Household Products,74.26,36.68
-Comcast,Cable & Satellite,79.08,7.05
-ConocoPhillips,Oil & Gas Exploration & Production,180.24,19.87
-Consolidated Edison,Multi-Utilities,42.71,19.03
-Constellation Brands,Distillers & Vintners,22.06,11.67
-Constellation Energy,Electric Utilities,93.74,25.86
-Cooper Companies (The),Health Care Supplies,11.47,20.74
-Copart,Diversified Support Services,27.37,19.06
-Corning Inc.,Electronic Components,111.02,52.18
-Corpay,Transaction & Payment Processing Services,26.13,24.19
-Corteva,Fertilizers & Agricultural Chemicals,7.65,7.08
-CoStar Group,Real Estate Services,11.4,65.44
-Costco,Consumer Staples Merchandise Retail,441.39,47.98
-Crown Castle,Telecom Tower REITs,38.82,35.67
-CSX Corporation,Rail Transportation,96.77,27.21
-Cummins,Construction Machinery & Heavy Transportation Equipment,71.31,26.47
-CVS Health,Health Care Services,115.53,23.77
-D. R. Horton,Homebuilding,40.98,13.97
-Danaher Corporation,Life Sciences Tools & Services,166.59,39.24
-Darden Restaurants,Restaurants,24.95,21.41
-DaVita,Health Care Services,12.33,16.33
-Deckers Brands,Footwear,11.27,10.96
-Deere & Company,Agricultural & Farm Machinery,177.95,36.69
-Dell Technologies,"Technology Hardware, Storage & Peripherals",302.34,27.65
-Delta Air Lines,Passenger Airlines,53.71,16.3
-Devon Energy,Oil & Gas Exploration & Production,56.29,11.15
-Dexcom,Health Care Equipment,30.16,31.22
-Diamondback Energy,Oil & Gas Exploration & Production,57.8,39.32
-Digital Realty,Data Center REITs,69.08,88.79
-Dollar General,Consumer Staples Merchandise Retail,28.7,16.89
-Dollar Tree,Consumer Staples Merchandise Retail,24.77,16.08
-Dominion Energy,Multi-Utilities,57.27,22.53
-Domino's,Restaurants,10.26,17.19
-Dover Corporation,Industrial Machinery & Supplies & Components,27.98,24.55
-DTE Energy,Multi-Utilities,27.99,21.32
-Duke Energy,Electric Utilities,98.16,18.96
-DuPont,Specialty Chemicals,18.98,37.79
-Eastman Chemical Company,Specialty Chemicals,7.77,17.74
-Eaton Corporation,Electrical Components & Equipment,152.92,40.05
-eBay,Broadline Retail,53.93,26.46
-Ecolab,Specialty Chemicals,84.34,40.93
-Edison International,Electric Utilities,22.85,6.12
-Edwards Lifesciences,Health Care Equipment,54.44,56.21
+Avery Dennison,Paper & Plastic Packaging Products & Materials,13.83,19.96
+Baker Hughes,Oil & Gas Equipment & Services,54.85,18.98
+Ball Corporation,"Metal, Glass & Plastic Containers",17.59,18.94
+Bank of America,Diversified Banks,346.2,11.94
+Becton Dickinson,Health Care Equipment,53.9,46.02
+Best Buy,Computer & Electronics Retail,20.06,15.92
+Bio-Techne,Life Sciences Tools & Services,11.41,62.64
+BlackRock,Asset Management & Custody Banks,186.45,26.13
+Blackstone Inc.,Asset Management & Custody Banks,141.65,26.39
+Boeing,Aerospace & Defense,135.94,17.7
+Booking Holdings,"Hotels, Resorts & Cruise Lines",111.3,16.42
+BorgWarner,Automotive Parts & Equipment,10.37,25.82
+Boston Scientific,Health Care Equipment,60.84,17.71
+Bristol Myers Squibb,Pharmaceuticals,127.71,13.76
+Broadcom,Semiconductors,1556.59,41.64
+Broadridge Financial Solutions,Data Processing & Outsourced Services,20.19,18.63
+Brown & Brown,Insurance Brokers,23.14,22.08
+Bunge Global,Agricultural Products & Services,18.57,19.25
+"BXP, Inc.",Office REITs,11.36,18.8
+C.H. Robinson,Air Freight & Logistics,14.39,22.37
+Cadence Design Systems,Application Software,89.97,65.19
+Camden Property Trust,Multi-Family Residential REITs,11.65,33.23
+Campbell Soup Company,Packaged Foods & Meats,6.39,16.35
+Capital One,Consumer Finance,125.67,12.55
+Cardinal Health,Health Care Distributors,58.0,34.64
+CarMax,Automotive Retail,7.89,26.34
+Carnival,"Hotels, Resorts & Cruise Lines",38.77,12.7
+Carrier Global,Building Products,44.21,38.86
+Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment,286.26,26.81
+Cboe Global Markets,Financial Exchanges & Data,35.04,26.15
+CBRE Group,Real Estate Services,37.13,27.59
+CDW,Technology Distributors,19.23,18.48
+Cencora,Health Care Distributors,63.13,24.56
+Centene Corporation,Managed Health Care,33.89,23.52
+CenterPoint Energy,Multi-Utilities,28.13,24.39
+CF Industries,Fertilizers & Agricultural Chemicals,18.66,9.15
+Charles Schwab Corporation,Investment Banking & Brokerage,152.27,15.05
+Charter Communications,Cable & Satellite,14.49,2.9
+Chevron Corporation,Integrated Oil & Gas,462.0,22.67
+Chipotle Mexican Grill,Restaurants,40.34,29.8
+Chubb Limited,Property & Casualty Insurance,139.12,12.76
+Church & Dwight,Household Products,25.44,34.37
+Cigna,Health Care Services,78.8,12.33
+Cincinnati Financial,Property & Casualty Insurance,27.81,10.63
+Cintas,Diversified Support Services,87.29,43.36
+Cisco,Communications Equipment,412.04,31.38
+Citigroup,Diversified Banks,202.99,11.95
+Citizens Financial Group,Regional Banks,26.75,12.89
+Clorox,Household Products,10.64,18.3
+CME Group,Financial Exchanges & Data,108.5,24.85
+CMS Energy,Multi-Utilities,21.99,25.04
+Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages,404.72,27.75
+Cognizant,IT Consulting & Other Services,29.11,14.0
+Colgate-Palmolive,Household Products,75.96,37.52
+Comcast,Cable & Satellite,82.45,7.35
+ConocoPhillips,Oil & Gas Exploration & Production,185.04,20.4
+Consolidated Edison,Multi-Utilities,43.14,19.22
+Constellation Brands,Distillers & Vintners,22.9,12.12
+Constellation Energy,Electric Utilities,92.96,25.65
+Cooper Companies (The),Health Care Supplies,11.32,20.46
+Copart,Diversified Support Services,27.91,19.44
+Corning Inc.,Electronic Components,106.22,49.92
+Corpay,Transaction & Payment Processing Services,26.33,24.37
+Corteva,Fertilizers & Agricultural Chemicals,7.77,7.19
+CoStar Group,Real Estate Services,12.14,70.16
+Costco,Consumer Staples Merchandise Retail,448.57,48.76
+Crown Castle,Telecom Tower REITs,38.76,35.62
+CSX Corporation,Rail Transportation,96.31,27.08
+Cummins,Construction Machinery & Heavy Transportation Equipment,68.84,25.55
+CVS Health,Health Care Services,115.43,23.75
+D. R. Horton,Homebuilding,40.84,13.92
+Danaher Corporation,Life Sciences Tools & Services,163.25,38.45
+Darden Restaurants,Restaurants,24.91,21.38
+DaVita,Health Care Services,11.96,15.84
+Deckers Brands,Footwear,10.94,10.86
+Deere & Company,Agricultural & Farm Machinery,182.13,37.55
+Dell Technologies,"Technology Hardware, Storage & Peripherals",269.78,24.67
+Delta Air Lines,Passenger Airlines,52.73,16.0
+Devon Energy,Oil & Gas Exploration & Production,57.37,11.36
+Dexcom,Health Care Equipment,31.05,32.65
+Diamondback Energy,Oil & Gas Exploration & Production,59.39,40.4
+Digital Realty,Data Center REITs,68.24,87.72
+Dollar General,Consumer Staples Merchandise Retail,29.19,17.18
+Dollar Tree,Consumer Staples Merchandise Retail,25.12,16.31
+Dominion Energy,Multi-Utilities,58.59,23.05
+Domino's,Restaurants,10.32,17.28
+Dover Corporation,Industrial Machinery & Supplies & Components,27.63,24.24
+DTE Energy,Multi-Utilities,28.19,21.47
+Duke Energy,Electric Utilities,99.33,19.19
+DuPont,Specialty Chemicals,18.91,37.65
+Eastman Chemical Company,Specialty Chemicals,7.61,17.37
+Eaton Corporation,Electrical Components & Equipment,143.7,37.64
+eBay,Broadline Retail,54.13,26.56
+Ecolab,Specialty Chemicals,84.93,41.22
+Edison International,Electric Utilities,22.62,6.06
+Edwards Lifesciences,Health Care Equipment,53.03,54.77
 Electronic Arts,Interactive Home Entertainment,52.93,59.74
-Elevance Health,Managed Health Care,91.52,17.92
-Emerson Electric,Electrical Components & Equipment,95.24,37.36
-Enphase Energy,Semiconductor Materials & Equipment,3.42,38.6
-Entergy,Electric Utilities,52.54,28.13
-EOG Resources,Oil & Gas Exploration & Production,85.09,12.62
-EPAM Systems,IT Consulting & Other Services,6.95,18.28
-EQT Corporation,Oil & Gas Exploration & Production,34.12,12.92
-Equifax,Research & Consulting Services,21.08,29.03
-Equinix,Data Center REITs,102.29,66.71
+Elevance Health,Managed Health Care,91.1,17.84
+Emerson Electric,Electrical Components & Equipment,92.0,36.09
+Enphase Energy,Semiconductor Materials & Equipment,3.39,38.28
+Entergy,Electric Utilities,52.61,28.16
+EOG Resources,Oil & Gas Exploration & Production,86.83,12.88
+EPAM Systems,IT Consulting & Other Services,7.25,19.07
+EQT Corporation,Oil & Gas Exploration & Production,34.64,13.12
+Equifax,Research & Consulting Services,21.69,29.87
+Equinix,Data Center REITs,100.34,60.88
 Equity Residential,Multi-Family Residential REITs,24.61,28.68
-Erie Indemnity,Insurance Brokers,13.11,22.74
-Essex Property Trust,Multi-Family Residential REITs,18.28,49.21
-Everest Group,Reinsurance,15.36,8.42
-Evergy,Electric Utilities,19.69,21.73
-Eversource Energy,Electric Utilities,25.58,17.59
-Exelon,Electric Utilities,47.3,16.46
-Expedia Group,"Hotels, Resorts & Cruise Lines",33.93,17.21
-Expeditors International,Air Freight & Logistics,25.79,28.88
-Extra Space Storage,Self-Storage REITs,33.08,30.47
-ExxonMobil,Integrated Oil & Gas,753.67,23.59
-"F5, Inc.",Communications Equipment,20.65,29.03
-FactSet,Financial Exchanges & Data,11.29,21.97
-Fair Isaac,Application Software,15.32,20.53
-Fastenal,Trading Companies & Distributors,60.29,42.72
-Federal Realty Investment Trust,Retail REITs,9.74,22.51
-FedEx,Air Freight & Logistics,72.85,16.59
-Fidelity National Information Services,Transaction & Payment Processing Services,19.23,5.73
-Fifth Third Bancorp,Regional Banks,49.37,18.27
-First Solar,Semiconductors,19.01,10.91
-FirstEnergy,Electric Utilities,27.1,25.04
-Fortinet,Systems Software,102.06,45.46
-Fortive,Industrial Machinery & Supplies & Components,19.6,31.2
-Fox Corporation (Class A),Broadcasting,27.2,16.8
-Fox Corporation (Class B),Broadcasting,24.14,14.91
-Franklin Resources,Asset Management & Custody Banks,16.43,22.0
-Freeport-McMoRan,Copper,94.98,27.79
-Garmin,Consumer Electronics,53.94,26.19
-Gartner,IT Consulting & Other Services,14.21,20.35
-GE Aerospace,Aerospace & Defense,324.81,35.78
-GE HealthCare,Health Care Equipment,34.55,16.16
-GE Vernova,Heavy Electrical Equipment,234.99,23.31
-Gen Digital,Systems Software,16.88,14.31
-Generac,Electrical Components & Equipment,12.0,40.11
-General Dynamics,Aerospace & Defense,100.33,22.62
-General Motors,Automobile Manufacturers,72.78,18.76
-Global Payments,Transaction & Payment Processing Services,22.68,40.24
-Globe Life,Life & Health Insurance,12.33,10.74
-GoDaddy,Internet Services & Infrastructure,13.41,15.76
-Goldman Sachs,Investment Banking & Brokerage,270.13,13.34
-Halliburton,Oil & Gas Equipment & Services,29.69,15.02
-Hartford (The),Property & Casualty Insurance,35.31,8.84
-Hasbro,Leisure Products,16.86,17.82
-HCA Healthcare,Health Care Facilities,103.51,15.86
-Healthpeak Properties,Health Care REITs,13.43,54.11
-Henry Schein,Health Care Distributors,9.63,25.2
-Hershey Company (The),Packaged Foods & Meats,32.2,21.9
-Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",78.15,30.35
+Erie Indemnity,Insurance Brokers,13.67,23.7
+Essex Property Trust,Multi-Family Residential REITs,18.21,49.01
+Everest Group,Reinsurance,15.37,8.64
+Evergy,Electric Utilities,19.81,21.87
+Eversource Energy,Electric Utilities,25.82,17.76
+Exelon,Electric Utilities,47.56,16.97
+Expedia Group,"Hotels, Resorts & Cruise Lines",34.32,17.86
+Expeditors International,Air Freight & Logistics,25.85,28.94
+Extra Space Storage,Self-Storage REITs,33.4,30.76
+ExxonMobil,Integrated Oil & Gas,769.96,24.1
+"F5, Inc.",Communications Equipment,19.22,27.02
+FactSet,Financial Exchanges & Data,11.62,22.62
+Fair Isaac,Application Software,15.36,20.59
+Fastenal,Trading Companies & Distributors,59.56,42.2
+Federal Realty Investment Trust,Retail REITs,9.63,22.26
+FedEx,Air Freight & Logistics,73.37,16.89
+Fidelity National Information Services,Transaction & Payment Processing Services,19.88,5.92
+Fifth Third Bancorp,Regional Banks,48.85,18.08
+First Solar,Semiconductors,18.74,10.75
+FirstEnergy,Electric Utilities,27.16,25.09
+Fortinet,Systems Software,99.84,44.47
+Fortive,Industrial Machinery & Supplies & Components,19.42,30.91
+Fox Corporation (Class A),Broadcasting,26.67,16.47
+Fox Corporation (Class B),Broadcasting,23.7,14.64
+Franklin Resources,Asset Management & Custody Banks,16.08,21.52
+Freeport-McMoRan,Copper,89.71,26.25
+Garmin,Consumer Electronics,52.54,26.19
+Gartner,IT Consulting & Other Services,14.45,20.69
+GE Aerospace,Aerospace & Defense,313.14,34.49
+GE HealthCare,Health Care Equipment,34.62,16.19
+GE Vernova,Heavy Electrical Equipment,227.06,22.52
+Gen Digital,Systems Software,17.44,14.79
+Generac,Electrical Components & Equipment,11.68,39.04
+General Dynamics,Aerospace & Defense,100.81,22.73
+General Motors,Automobile Manufacturers,74.2,19.12
+Global Payments,Transaction & Payment Processing Services,25.63,45.46
+Globe Life,Life & Health Insurance,12.23,10.65
+GoDaddy,Internet Services & Infrastructure,14.85,17.45
+Goldman Sachs,Investment Banking & Brokerage,260.47,12.86
+Halliburton,Oil & Gas Equipment & Services,29.92,15.2
+Hartford (The),Property & Casualty Insurance,35.46,8.87
+Hasbro,Leisure Products,16.8,17.75
+HCA Healthcare,Health Care Facilities,102.45,15.69
+Healthpeak Properties,Health Care REITs,13.49,54.37
+Henry Schein,Health Care Distributors,9.46,24.75
+Hershey Company (The),Packaged Foods & Meats,33.28,22.62
+Hewlett Packard Enterprise,"Technology Hardware, Storage & Peripherals",73.13,28.4
 Hilton Worldwide,"Hotels, Resorts & Cruise Lines",79.42,48.17
-Home Depot (The),Home Improvement Retail,328.22,23.02
-Honeywell,Industrial Conglomerates,70.41,11.01
-Hormel Foods,Packaged Foods & Meats,11.5,33.71
-Host Hotels & Resorts,Hotel & Resort REITs,17.85,17.36
-Howmet Aerospace,Aerospace & Defense,82.13,44.38
-HP Inc.,"Technology Hardware, Storage & Peripherals",28.7,12.15
-Hubbell Incorporated,Industrial Machinery & Supplies & Components,23.15,25.7
-Humana,Managed Health Care,50.14,39.47
-Huntington Bancshares,Regional Banks,32.19,13.09
-Huntington Ingalls Industries,Aerospace & Defense,12.46,18.84
-IBM,IT Consulting & Other Services,244.11,22.04
-IDEX Corporation,Industrial Machinery & Supplies & Components,17.64,33.24
-Idexx Laboratories,Health Care Equipment,45.38,40.48
-Illinois Tool Works,Industrial Machinery & Supplies & Components,80.14,25.1
-Incyte,Biotechnology,23.68,14.88
-Ingersoll Rand,Industrial Machinery & Supplies & Components,31.04,32.93
-Insulet Corporation,Health Care Equipment,10.58,28.56
-Intercontinental Exchange,Financial Exchanges & Data,91.53,23.0
-International Flavors & Fragrances,Specialty Chemicals,23.17,89.91
-Intuit,Application Software,88.51,20.12
-Intuitive Surgical,Health Care Equipment,158.54,54.26
-Invitation Homes,Single-Family Residential REITs,15.73,23.37
-IQVIA,Life Sciences Tools & Services,45.33,33.46
-Iron Mountain,Other Specialized REITs,35.24,84.56
-J.B. Hunt,Cargo Ground Transportation,20.85,31.32
-J.M. Smucker Company (The),Packaged Foods & Meats,13.49,59.0
-Jabil,Electronic Manufacturing Services,29.63,29.85
-Jack Henry & Associates,Transaction & Payment Processing Services,11.19,22.87
-Jacobs Solutions,Construction & Engineering,17.88,50.75
-Johnson & Johnson,Pharmaceuticals,662.49,41.14
-Johnson Controls,Building Products,95.87,33.53
-JPMorgan Chase,Diversified Banks,912.41,14.23
-Kenvue,Personal Care Products,37.57,22.74
-Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages,48.04,35.3
-KeyCorp,Regional Banks,22.74,11.81
-Keysight Technologies,Electronic Equipment & Instruments,56.15,44.63
-Kimberly-Clark,Household Products,36.59,21.7
-Kimco Realty,Retail REITs,16.38,27.44
-Kinder Morgan,Oil & Gas Storage & Transportation,75.68,20.97
-KKR,Asset Management & Custody Banks,88.5,30.61
-KLA Corporation,Semiconductor Materials & Equipment,218.5,41.96
-Kroger,Food Retail,38.94,36.63
-L3Harris,Aerospace & Defense,51.85,26.27
-LabCorp,Health Care Services,29.89,30.18
-Lam Research,Semiconductor Materials & Equipment,318.35,37.91
-Lamb Weston,Packaged Foods & Meats,7.34,29.28
-Las Vegas Sands,Casinos & Gaming,23.99,15.18
-Leidos,Diversified Support Services,17.7,13.17
-Lennar,Homebuilding,20.33,16.19
-Lilly (Eli),Pharmaceuticals,1224.99,43.25
-Linde plc,Industrial Gases,231.94,32.48
-LKQ Corporation,Distributors,4.58,10.06
-Lockheed Martin,Aerospace & Defense,148.67,22.85
-Loews Corporation,Multi-line Insurance,22.83,13.69
-Lowe's,Home Improvement Retail,116.3,17.52
-Lululemon Athletica,"Apparel, Accessories & Luxury Goods",12.72,9.04
-M&T Bank,Regional Banks,32.2,11.5
-Marathon Petroleum,Oil & Gas Refining & Marketing,121.46,14.98
-MarketAxess,Financial Exchanges & Data,5.8,20.24
-Marriott International,"Hotels, Resorts & Cruise Lines",104.22,41.37
-Martin Marietta Materials,Construction Materials,37.95,34.75
-Masco,Building Products,15.46,17.39
-Mastercard,Transaction & Payment Processing Services,556.88,34.97
-Match Group,Interactive Media & Services,9.95,14.91
-McCormick & Company,Packaged Foods & Meats,12.59,8.46
-McDonald's,Restaurants,182.13,20.35
-McKesson Corporation,Health Care Distributors,114.36,26.29
-Medtronic,Health Care Equipment,124.22,23.86
-Meta Platforms,Interactive Media & Services,1596.79,21.31
-MetLife,Life & Health Insurance,64.08,19.32
-Mettler Toledo,Life Sciences Tools & Services,34.44,38.73
-MGM Resorts,Casinos & Gaming,7.38,16.86
-Micron Technology,Semiconductors,1057.05,12.57
-Microsoft,Systems Software,3936.58,29.53
-Mid-America Apartment Communities,Multi-Family Residential REITs,14.07,34.58
-Mohawk Industries,Home Furnishings,8.81,17.22
-Mondelez International,Packaged Foods & Meats,79.81,22.99
-Monolithic Power Systems,Semiconductors,58.91,72.92
-Monster Beverage,Soft Drinks & Non-alcoholic Beverages,90.8,42.92
-Moody's Corporation,Financial Exchanges & Data,84.29,29.82
-Morgan Stanley,Investment Banking & Brokerage,297.35,15.07
-Motorola Solutions,Communications Equipment,81.44,38.75
-MSCI,Financial Exchanges & Data,44.97,32.71
-"Nasdaq, Inc.",Financial Exchanges & Data,59.03,28.85
-NetApp,"Technology Hardware, Storage & Peripherals",42.9,30.81
-Netflix,Movies & Entertainment,258.37,17.93
-Newmont,Gold,116.18,12.97
-News Corp (Class A),Publishing,15.85,28.59
-News Corp (Class B),Publishing,17.32,31.24
-NextEra Energy,Multi-Utilities,172.27,14.8
-"Nike, Inc.","Apparel, Accessories & Luxury Goods",57.07,18.47
-NiSource,Multi-Utilities,21.47,22.95
-Nordson Corporation,Industrial Machinery & Supplies & Components,18.33,33.31
-Norfolk Southern Railway,Rail Transportation,76.86,28.68
-Northern Trust,Asset Management & Custody Banks,31.64,13.56
-Northrop Grumman,Aerospace & Defense,79.89,17.75
-Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines",8.37,11.25
-NRG Energy,Independent Power Producers & Energy Traders,20.5,25.53
-Nucor,Steel,62.46,17.53
-Nvidia,Semiconductors,5159.25,27.01
-"NVR, Inc.",Homebuilding,16.12,16.64
-NXP Semiconductors,Semiconductors,67.05,20.93
-O'Reilly Auto Parts,Automotive Retail,71.25,27.96
-Occidental Petroleum,Oil & Gas Exploration & Production,62.99,17.9
-Old Dominion,Cargo Ground Transportation,35.84,31.11
-Omnicom Group,Advertising,22.21,78.61
-ON Semiconductor,Semiconductors,29.29,48.54
-ONEOK,Oil & Gas Storage & Transportation,60.41,16.55
-Oracle Corporation,Application Software,423.08,22.66
-Otis Worldwide,Industrial Machinery & Supplies & Components,28.4,18.56
-Paccar,Construction Machinery & Heavy Transportation Equipment,53.86,19.52
-Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,22.68,31.38
-Parker Hannifin,Industrial Machinery & Supplies & Components,117.09,32.6
-Paychex,Human Resource & Employment Services,38.93,21.7
-Paycom,Human Resource & Employment Services,11.75,27.58
-PayPal,Transaction & Payment Processing Services,47.31,10.87
-Pentair,Industrial Machinery & Supplies & Components,10.51,17.94
-PepsiCo,Soft Drinks & Non-alcoholic Beverages,182.32,16.83
-Pfizer,Pharmaceuticals,170.71,39.41
-PG&E Corporation,Multi-Utilities,39.72,9.8
-Philip Morris International,Tobacco,324.97,30.44
-Phillips 66,Oil & Gas Refining & Marketing,106.73,8.78
-Pinnacle West,Multi-Utilities,12.92,20.47
-PNC Financial Services,Diversified Banks,92.09,12.34
-Pool Corporation,Distributors,7.29,18.73
-PPG Industries,Specialty Chemicals,26.51,16.85
-PPL Corporation,Electric Utilities,26.81,21.08
-Principal Financial Group,Life & Health Insurance,24.18,16.19
-Procter & Gamble,Personal Care Products,372.21,24.19
-Progressive Corporation,Property & Casualty Insurance,133.39,11.6
-Prologis,Industrial REITs,124.45,28.45
-Prudential Financial,Life & Health Insurance,40.32,10.59
-PTC Inc.,Application Software,21.16,18.89
-Public Service Enterprise Group,Electric Utilities,36.7,18.32
-Public Storage,Self-Storage REITs,59.24,33.34
-PulteGroup,Homebuilding,23.69,13.29
+Home Depot (The),Home Improvement Retail,328.44,23.04
+Honeywell,Industrial Conglomerates,69.2,10.82
+Hormel Foods,Packaged Foods & Meats,11.71,34.32
+Host Hotels & Resorts,Hotel & Resort REITs,17.58,17.09
+Howmet Aerospace,Aerospace & Defense,79.45,42.94
+HP Inc.,"Technology Hardware, Storage & Peripherals",25.95,10.98
+Hubbell Incorporated,Industrial Machinery & Supplies & Components,22.32,24.78
+Humana,Managed Health Care,49.77,39.18
+Huntington Bancshares,Regional Banks,31.8,12.93
+Huntington Ingalls Industries,Aerospace & Defense,12.49,18.88
+IBM,IT Consulting & Other Services,243.66,22.0
+IDEX Corporation,Industrial Machinery & Supplies & Components,17.18,32.48
+Idexx Laboratories,Health Care Equipment,43.42,38.74
+Illinois Tool Works,Industrial Machinery & Supplies & Components,79.16,24.85
+Incyte,Biotechnology,24.4,15.34
+Ingersoll Rand,Industrial Machinery & Supplies & Components,31.06,32.94
+Insulet Corporation,Health Care Equipment,10.38,28.03
+Intercontinental Exchange,Financial Exchanges & Data,94.36,23.82
+International Flavors & Fragrances,Specialty Chemicals,23.73,92.1
+Intuit,Application Software,91.15,20.72
+Intuitive Surgical,Health Care Equipment,152.62,52.24
+Invitation Homes,Single-Family Residential REITs,15.45,23.3
+IQVIA,Life Sciences Tools & Services,44.06,32.52
+Iron Mountain,Other Specialized REITs,34.7,83.25
+J.B. Hunt,Cargo Ground Transportation,20.76,31.18
+J.M. Smucker Company (The),Packaged Foods & Meats,13.88,60.7
+Jabil,Electronic Manufacturing Services,28.08,27.97
+Jack Henry & Associates,Transaction & Payment Processing Services,11.31,23.11
+Jacobs Solutions,Construction & Engineering,18.1,51.37
+Johnson & Johnson,Pharmaceuticals,657.68,41.46
+Johnson Controls,Building Products,90.27,31.57
+JPMorgan Chase,Diversified Banks,895.04,14.14
+Kenvue,Personal Care Products,37.09,22.45
+Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages,48.77,36.2
+KeyCorp,Regional Banks,22.35,11.6
+Keysight Technologies,Electronic Equipment & Instruments,52.3,41.57
+Kimberly-Clark,Household Products,35.9,21.29
+Kimco Realty,Retail REITs,16.29,22.92
+Kinder Morgan,Oil & Gas Storage & Transportation,75.45,20.91
+KKR,Asset Management & Custody Banks,87.18,30.16
+KLA Corporation,Semiconductor Materials & Equipment,206.07,39.58
+Kroger,Food Retail,39.43,37.09
+L3Harris,Aerospace & Defense,51.69,27.98
+LabCorp,Health Care Services,29.34,29.62
+Lam Research,Semiconductor Materials & Equipment,299.23,35.63
+Lamb Weston,Packaged Foods & Meats,7.45,29.55
+Las Vegas Sands,Casinos & Gaming,23.95,15.15
+Leidos,Diversified Support Services,17.94,13.35
+Lennar,Homebuilding,20.68,16.47
+Lilly (Eli),Pharmaceuticals,1262.67,47.58
+Linde plc,Industrial Gases,236.08,33.2
+LKQ Corporation,Distributors,4.68,10.31
+Lockheed Martin,Aerospace & Defense,147.14,22.62
+Loews Corporation,Multi-line Insurance,22.76,13.64
+Lowe's,Home Improvement Retail,117.3,17.67
+Lululemon Athletica,"Apparel, Accessories & Luxury Goods",12.42,8.83
+M&T Bank,Regional Banks,31.72,11.53
+Marathon Petroleum,Oil & Gas Refining & Marketing,124.89,15.4
+MarketAxess,Financial Exchanges & Data,5.82,20.28
+Marriott International,"Hotels, Resorts & Cruise Lines",104.12,41.34
+Martin Marietta Materials,Construction Materials,38.38,35.14
+Masco,Building Products,15.54,17.49
+Mastercard,Transaction & Payment Processing Services,555.82,35.09
+Match Group,Interactive Media & Services,9.66,14.68
+McCormick & Company,Packaged Foods & Meats,12.72,8.55
+McDonald's,Restaurants,182.66,20.97
+McKesson Corporation,Health Care Distributors,115.96,26.66
+Medtronic,Health Care Equipment,123.49,23.72
+Meta Platforms,Interactive Media & Services,1572.43,20.98
+MetLife,Life & Health Insurance,63.56,19.16
+Mettler Toledo,Life Sciences Tools & Services,33.56,37.75
+MGM Resorts,Casinos & Gaming,7.58,11.52
+Micron Technology,Semiconductors,1001.02,11.9
+Microsoft,Systems Software,3875.8,27.24
+Mid-America Apartment Communities,Multi-Family Residential REITs,13.94,35.52
+Mohawk Industries,Home Furnishings,9.44,18.46
+Mondelez International,Packaged Foods & Meats,82.88,23.88
+Monolithic Power Systems,Semiconductors,59.54,73.7
+Monster Beverage,Soft Drinks & Non-alcoholic Beverages,92.74,43.83
+Moody's Corporation,Financial Exchanges & Data,85.16,30.13
+Morgan Stanley,Investment Banking & Brokerage,288.43,14.62
+Motorola Solutions,Communications Equipment,81.35,38.7
+MSCI,Financial Exchanges & Data,45.32,32.97
+"Nasdaq, Inc.",Financial Exchanges & Data,59.38,29.02
+NetApp,"Technology Hardware, Storage & Peripherals",39.12,28.09
+Netflix,Movies & Entertainment,258.5,17.94
+Newmont,Gold,110.79,12.37
+News Corp (Class A),Publishing,15.67,28.27
+News Corp (Class B),Publishing,17.08,30.82
+NextEra Energy,Multi-Utilities,175.57,15.08
+"Nike, Inc.","Apparel, Accessories & Luxury Goods",57.44,18.59
+NiSource,Multi-Utilities,21.38,22.86
+Nordson Corporation,Industrial Machinery & Supplies & Components,17.97,32.66
+Norfolk Southern Railway,Rail Transportation,76.96,28.72
+Northern Trust,Asset Management & Custody Banks,30.95,13.27
+Northrop Grumman,Aerospace & Defense,79.21,17.6
+Norwegian Cruise Line Holdings,"Hotels, Resorts & Cruise Lines",8.07,10.85
+NRG Energy,Independent Power Producers & Energy Traders,20.19,25.15
+Nucor,Steel,62.13,17.44
+Nvidia,Semiconductors,4941.44,25.87
+"NVR, Inc.",Homebuilding,15.96,16.47
+NXP Semiconductors,Semiconductors,65.44,20.43
+O'Reilly Auto Parts,Automotive Retail,70.9,27.03
+Occidental Petroleum,Oil & Gas Exploration & Production,63.98,18.18
+Old Dominion,Cargo Ground Transportation,35.89,30.98
+Omnicom Group,Advertising,22.29,82.08
+ON Semiconductor,Semiconductors,27.9,46.24
+ONEOK,Oil & Gas Storage & Transportation,61.2,15.07
+Oracle Corporation,Application Software,396.13,20.48
+Otis Worldwide,Industrial Machinery & Supplies & Components,28.84,18.84
+Paccar,Construction Machinery & Heavy Transportation Equipment,53.66,19.45
+Packaging Corporation of America,Paper & Plastic Packaging Products & Materials,22.88,31.67
+Parker Hannifin,Industrial Machinery & Supplies & Components,113.48,31.59
+Paychex,Human Resource & Employment Services,39.91,22.25
+Paycom,Human Resource & Employment Services,11.91,27.96
+PayPal,Transaction & Payment Processing Services,47.36,10.88
+Pentair,Industrial Machinery & Supplies & Components,10.58,18.05
+PepsiCo,Soft Drinks & Non-alcoholic Beverages,187.16,17.28
+Pfizer,Pharmaceuticals,173.95,40.16
+PG&E Corporation,Multi-Utilities,39.57,9.76
+Philip Morris International,Tobacco,325.42,30.48
+Phillips 66,Oil & Gas Refining & Marketing,110.32,9.07
+Pinnacle West,Multi-Utilities,12.88,20.4
+PNC Financial Services,Diversified Banks,90.52,12.13
+Pool Corporation,Distributors,7.36,18.89
+PPG Industries,Specialty Chemicals,26.4,16.79
+PPL Corporation,Electric Utilities,26.83,21.09
+Principal Financial Group,Life & Health Insurance,23.75,15.9
+Procter & Gamble,Personal Care Products,374.48,24.33
+Progressive Corporation,Property & Casualty Insurance,134.03,11.65
+Prologis,Industrial REITs,124.41,28.19
+Prudential Financial,Life & Health Insurance,40.18,10.55
+PTC Inc.,Application Software,21.24,18.97
+Public Service Enterprise Group,Electric Utilities,37.03,18.48
+Public Storage,Self-Storage REITs,60.68,34.15
+PulteGroup,Homebuilding,23.76,13.33
 Qorvo,Semiconductors,10.07,26.49
-Qualcomm,Semiconductors,197.99,21.46
-Quanta Services,Construction & Engineering,95.5,72.76
-Quest Diagnostics,Health Care Services,27.92,25.19
-Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",23.86,25.24
-Raymond James Financial,Investment Banking & Brokerage,30.98,13.54
-Realty Income,Retail REITs,54.12,41.45
-Regency Centers,Retail REITs,14.02,25.25
-Regeneron Pharmaceuticals,Biotechnology,84.3,20.25
-Regions Financial Corporation,Regional Banks,24.6,11.33
-Republic Services,Environmental & Facilities Services,72.35,33.51
-ResMed,Health Care Equipment,35.56,24.24
-Revvity,Health Care Equipment,18.5,79.32
-Rockwell Automation,Electrical Components & Equipment,50.23,42.27
-"Rollins, Inc.",Environmental & Facilities Services,16.69,31.83
-Roper Technologies,Electronic Equipment & Instruments,44.47,17.79
-Ross Stores,Apparel Retail,74.52,28.09
-Royal Caribbean Group,"Hotels, Resorts & Cruise Lines",83.06,18.38
-RTX Corporation,Aerospace & Defense,269.08,32.42
-S&P Global,Financial Exchanges & Data,133.55,27.52
-Salesforce,Application Software,190.03,21.13
-SBA Communications,Telecom Tower REITs,19.61,19.94
-Schlumberger,Oil & Gas Equipment & Services,79.43,26.12
-Seagate Technology,"Technology Hardware, Storage & Peripherals",161.11,36.73
-Sempra,Multi-Utilities,56.16,24.82
-ServiceNow,Systems Software,113.38,78.9
-Sherwin-Williams,Specialty Chemicals,79.75,30.37
-Simon Property Group,Retail REITs,81.89,15.22
-Skyworks Solutions,Semiconductors,21.03,46.34
-Smurfit WestRock,Paper & Plastic Packaging Products & Materials,22.31,47.26
-Snap-on,Industrial Machinery & Supplies & Components,18.55,18.63
-Solventum,Health Care Technology,14.22,10.23
-Southern Company,Electric Utilities,106.97,22.41
-Southwest Airlines,Passenger Airlines,21.38,21.31
-Stanley Black & Decker,Industrial Machinery & Supplies & Components,15.65,25.33
-Starbucks,Restaurants,120.28,60.99
-State Street Corporation,Asset Management & Custody Banks,47.4,14.2
-Steel Dynamics,Steel,36.06,18.72
-Steris,Health Care Equipment,22.63,28.38
-Stryker Corporation,Health Care Equipment,119.58,32.31
-Supermicro,"Technology Hardware, Storage & Peripherals",22.62,10.56
-Synchrony Financial,Consumer Finance,25.04,8.03
-Synopsys,Application Software,93.94,86.61
-Sysco,Food Distributors,40.59,22.55
-T-Mobile US,Wireless Telecommunication Services,156.55,14.2
-T. Rowe Price,Asset Management & Custody Banks,22.75,10.44
-"Tapestry, Inc.","Apparel, Accessories & Luxury Goods",23.38,15.3
-Targa Resources,Oil & Gas Storage & Transportation,66.98,29.86
-Target Corporation,Consumer Staples Merchandise Retail,68.97,15.77
-TE Connectivity,Electronic Manufacturing Services,64.04,20.12
-Teledyne Technologies,Electronic Equipment & Instruments,31.4,31.02
-Teradyne,Semiconductor Materials & Equipment,46.31,34.05
-Texas Instruments,Semiconductors,286.1,40.17
-Textron,Aerospace & Defense,15.04,16.47
-Thermo Fisher Scientific,Life Sciences Tools & Services,262.22,37.4
-TJX Companies,Apparel Retail,155.53,26.18
-Tractor Supply,Other Specialty Retail,17.53,18.09
-Trane Technologies,Building Products,94.85,32.12
-TransDigm Group,Aerospace & Defense,65.0,35.67
-Travelers Companies (The),Property & Casualty Insurance,81.61,10.47
-Truist Financial,Diversified Banks,60.25,12.71
-Tyler Technologies,Application Software,15.31,47.51
-Tyson Foods,Packaged Foods & Meats,19.79,34.72
-U.S. Bancorp,Diversified Banks,94.48,11.8
-Uber,Passenger Ground Transportation,134.28,14.42
-"UDR, Inc.",Multi-Family Residential REITs,13.01,22.0
-Ulta Beauty,Other Specialty Retail,27.72,23.63
-Union Pacific Corporation,Rail Transportation,179.37,23.55
-United Airlines Holdings,Passenger Airlines,34.18,9.47
-United Parcel Service,Air Freight & Logistics,91.31,19.95
-United Rentals,Trading Companies & Distributors,74.22,26.39
-UnitedHealth Group,Managed Health Care,368.83,23.24
-Universal Health Services,Health Care Facilities,10.41,7.39
-Valero Energy,Oil & Gas Refining & Marketing,107.25,8.75
-Veralto,Environmental & Facilities Services,25.37,26.21
-Verisign,Internet Services & Infrastructure,27.44,32.93
-Verisk Analytics,Research & Consulting Services,24.82,29.29
-Verizon,Integrated Telecommunication Services,180.97,11.14
-Vertex Pharmaceuticals,Biotechnology,136.87,31.45
-Vici Properties,Hotel & Resort REITs,27.0,9.54
-Visa Inc.,Transaction & Payment Processing Services,767.3,33.32
-Vistra Corp.,Electric Utilities,47.31,23.77
-Vulcan Materials Company,Construction Materials,36.32,33.06
-W. R. Berkley Corporation,Property & Casualty Insurance,27.14,15.45
-W. W. Grainger,Industrial Machinery & Supplies & Components,64.62,34.99
-Wabtec,Construction Machinery & Heavy Transportation Equipment,48.23,35.04
-Walmart,Consumer Staples Merchandise Retail,964.92,43.93
-Walt Disney Company (The),Movies & Entertainment,191.51,22.87
-Waste Management,Environmental & Facilities Services,91.81,30.3
-WEC Energy Group,Electric Utilities,37.35,22.26
-Wells Fargo,Diversified Banks,254.59,11.96
-Welltower,Health Care REITs,171.06,98.8
-West Pharmaceutical Services,Health Care Supplies,29.32,53.35
-Western Digital,"Technology Hardware, Storage & Peripherals",148.01,13.91
-Weyerhaeuser,Timber REITs,14.23,30.38
-Williams Companies,Oil & Gas Storage & Transportation,91.59,29.83
-Willis Towers Watson,Insurance Brokers,29.79,19.93
-Wynn Resorts,Casinos & Gaming,7.64,17.8
-Xcel Energy,Multi-Utilities,49.37,21.65
-Xylem Inc.,Industrial Machinery & Supplies & Components,20.81,20.12
-Yum! Brands,Restaurants,42.18,19.46
-Zebra Technologies,Electronic Equipment & Instruments,17.85,35.24
-Zimmer Biomet,Health Care Equipment,18.59,23.66
-Zoetis,Pharmaceuticals,32.56,12.96
+Qualcomm,Semiconductors,175.97,19.07
+Quanta Services,Construction & Engineering,93.53,71.1
+Quest Diagnostics,Health Care Services,27.79,25.08
+Ralph Lauren Corporation,"Apparel, Accessories & Luxury Goods",23.41,24.76
+Raymond James Financial,Investment Banking & Brokerage,30.2,13.2
+Realty Income,Retail REITs,53.87,41.25
+Regency Centers,Retail REITs,13.95,25.11
+Regeneron Pharmaceuticals,Biotechnology,95.53,22.94
+Regions Financial Corporation,Regional Banks,24.34,11.2
+Republic Services,Environmental & Facilities Services,74.73,34.62
+ResMed,Health Care Equipment,32.34,22.05
+Revvity,Health Care Equipment,17.52,75.12
+Rockwell Automation,Electrical Components & Equipment,48.54,40.84
+"Rollins, Inc.",Environmental & Facilities Services,16.68,31.8
+Roper Technologies,Electronic Equipment & Instruments,46.15,18.46
+Ross Stores,Apparel Retail,73.23,27.6
+Royal Caribbean Group,"Hotels, Resorts & Cruise Lines",82.16,18.18
+RTX Corporation,Aerospace & Defense,269.62,32.49
+S&P Global,Financial Exchanges & Data,135.25,27.87
+Salesforce,Application Software,188.61,20.97
+SBA Communications,Telecom Tower REITs,19.85,20.19
+Schlumberger,Oil & Gas Equipment & Services,79.32,26.09
+Seagate Technology,"Technology Hardware, Storage & Peripherals",148.25,33.8
+Sempra,Multi-Utilities,56.27,24.87
+ServiceNow,Systems Software,109.11,75.63
+Sherwin-Williams,Specialty Chemicals,80.35,30.6
+Simon Property Group,Retail REITs,82.66,15.37
+Skyworks Solutions,Semiconductors,20.6,45.38
+Smurfit WestRock,Paper & Plastic Packaging Products & Materials,22.6,47.88
+Snap-on,Industrial Machinery & Supplies & Components,18.4,18.48
+Solventum,Health Care Technology,13.84,9.95
+Southern Company,Electric Utilities,107.8,22.58
+Southwest Airlines,Passenger Airlines,20.77,20.7
+Stanley Black & Decker,Industrial Machinery & Supplies & Components,15.62,25.29
+Starbucks,Restaurants,118.18,59.92
+State Street Corporation,Asset Management & Custody Banks,46.19,13.87
+Steel Dynamics,Steel,35.67,18.52
+Steris,Health Care Equipment,22.14,27.77
+Stryker Corporation,Health Care Equipment,111.95,30.24
+Supermicro,"Technology Hardware, Storage & Peripherals",21.65,10.11
+Synchrony Financial,Consumer Finance,24.52,7.87
+Synopsys,Application Software,89.61,82.62
+Sysco,Food Distributors,40.78,22.65
+T-Mobile US,Wireless Telecommunication Services,165.71,15.09
+T. Rowe Price,Asset Management & Custody Banks,22.16,10.43
+"Tapestry, Inc.","Apparel, Accessories & Luxury Goods",23.08,16.0
+Targa Resources,Oil & Gas Storage & Transportation,67.54,30.11
+Target Corporation,Consumer Staples Merchandise Retail,70.13,16.03
+TE Connectivity,Electronic Manufacturing Services,61.25,19.24
+Teledyne Technologies,Electronic Equipment & Instruments,30.51,30.14
+Teradyne,Semiconductor Materials & Equipment,42.9,31.54
+Texas Instruments,Semiconductors,275.04,39.02
+Textron,Aerospace & Defense,14.52,16.14
+Thermo Fisher Scientific,Life Sciences Tools & Services,257.71,36.76
+TJX Companies,Apparel Retail,154.34,25.98
+Tractor Supply,Other Specialty Retail,17.68,18.25
+Trane Technologies,Building Products,89.75,30.55
+TransDigm Group,Aerospace & Defense,63.39,34.78
+Travelers Companies (The),Property & Casualty Insurance,81.19,10.42
+Truist Financial,Diversified Banks,58.47,12.57
+Tyler Technologies,Application Software,15.68,49.23
+Tyson Foods,Packaged Foods & Meats,20.07,35.21
+U.S. Bancorp,Diversified Banks,92.63,11.57
+Uber,Passenger Ground Transportation,133.28,14.31
+"UDR, Inc.",Multi-Family Residential REITs,13.05,22.48
+Ulta Beauty,Other Specialty Retail,27.38,23.34
+Union Pacific Corporation,Rail Transportation,180.6,23.71
+United Airlines Holdings,Passenger Airlines,33.87,9.55
+United Parcel Service,Air Freight & Logistics,92.1,20.12
+United Rentals,Trading Companies & Distributors,72.45,25.76
+UnitedHealth Group,Managed Health Care,365.29,23.23
+Universal Health Services,Health Care Facilities,10.38,7.37
+Valero Energy,Oil & Gas Refining & Marketing,111.46,9.09
+Veralto,Environmental & Facilities Services,27.09,27.98
+Verisign,Internet Services & Infrastructure,27.56,33.07
+Verisk Analytics,Research & Consulting Services,25.55,30.15
+Verizon,Integrated Telecommunication Services,185.39,11.41
+Vertex Pharmaceuticals,Biotechnology,141.65,32.55
+Vici Properties,Hotel & Resort REITs,26.93,11.32
+Visa Inc.,Transaction & Payment Processing Services,773.0,33.57
+Vistra Corp.,Electric Utilities,46.44,23.33
+Vulcan Materials Company,Construction Materials,36.1,33.17
+W. R. Berkley Corporation,Property & Casualty Insurance,27.42,15.62
+W. W. Grainger,Industrial Machinery & Supplies & Components,64.02,34.66
+Wabtec,Construction Machinery & Heavy Transportation Equipment,47.23,34.73
+Walmart,Consumer Staples Merchandise Retail,982.9,44.75
+Walt Disney Company (The),Movies & Entertainment,191.56,22.87
+Waste Management,Environmental & Facilities Services,92.83,30.64
+WEC Energy Group,Electric Utilities,38.19,22.54
+Wells Fargo,Diversified Banks,250.35,11.76
+Welltower,Health Care REITs,172.1,99.41
+West Pharmaceutical Services,Health Care Supplies,28.79,52.83
+Western Digital,"Technology Hardware, Storage & Peripherals",137.04,12.88
+Weyerhaeuser,Timber REITs,14.67,32.3
+Williams Companies,Oil & Gas Storage & Transportation,90.94,29.62
+Willis Towers Watson,Insurance Brokers,29.92,19.93
+Wynn Resorts,Casinos & Gaming,7.69,17.9
+Xcel Energy,Multi-Utilities,49.86,21.87
+Xylem Inc.,Industrial Machinery & Supplies & Components,21.19,20.49
+Yum! Brands,Restaurants,42.41,19.57
+Zebra Technologies,Electronic Equipment & Instruments,17.09,33.11
+Zimmer Biomet,Health Care Equipment,18.03,22.94
+Zoetis,Pharmaceuticals,32.94,13.11
